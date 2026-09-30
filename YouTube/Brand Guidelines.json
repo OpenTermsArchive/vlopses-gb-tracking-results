@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:07:28.135Z",
+    "serviceName": "YouTube",
+    "sourceDocuments": [
+      {
+        "id": "",
+        "fetch": "https://brand.youtube/",
+        "select": "main",
+        "remove": [
+          ".ytr-brand__link",
+          ".ytr-article__tabs"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "99e41ae377e6c1724b7e02dc44902b1a3fe9e0ac"
+      }
+    ]
+  }
+}

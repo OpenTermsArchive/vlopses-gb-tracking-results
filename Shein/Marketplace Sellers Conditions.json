@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:48:18.974Z",
+    "serviceName": "Shein",
+    "sourceDocuments": [
+      {
+        "id": "animal-welfare-policy",
+        "fetch": "https://www.sheingroup.com/animal-welfare-policy/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "fa351afa3ed85155ad63580774a52b6b79375e6a"
+      }
+    ]
+  }
+}

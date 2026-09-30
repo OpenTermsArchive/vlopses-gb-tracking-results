@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:57:51.961Z",
+    "serviceName": "Wikipedia",
+    "sourceDocuments": [
+      {
+        "id": "wiki-Policy_Wikimedia_Foundation_Combating_Online_Child_Exploitation_Policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Foundation_Combating_Online_Child_Exploitation_Policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "1c4ffcdc69952219360ad58f7fcd932766feda91"
+      },
+      {
+        "id": "wiki-Legal_Wikimedia_Foundation_Terrorist_and_Violent_Extremist_Content_Procedures_and_Guidelines",
+        "fetch": "https://foundation.wikimedia.org/wiki/Legal:Wikimedia_Foundation_Terrorist_and_Violent_Extremist_Content_Procedures_and_Guidelines",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "53d36c668d9056e2c436637f79b07030fd20a069"
+      }
+    ]
+  }
+}

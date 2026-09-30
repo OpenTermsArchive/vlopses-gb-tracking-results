@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:49:57.645Z",
+    "serviceName": "Stripchat",
+    "sourceDocuments": [
+      {
+        "id": "privacy",
+        "fetch": "https://stripchat.com/privacy",
+        "select": [
+          ".page-section"
+        ],
+        "remove": [
+          "button",
+          ".page-section-notes"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "49e9f2512223967f6a4b8676164d1be4dcb09f85"
+      }
+    ]
+  }
+}

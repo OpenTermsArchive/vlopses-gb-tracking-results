@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:59:15.468Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "legal-terms-dataprocessing",
+        "fetch": "https://www.facebook.com/legal/terms/dataprocessing",
+        "select": [
+          {
+            "startBefore": "div[role=main]",
+            "endBefore": "[role=\"separator\"]"
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3d959d3b36422d3b963374d3c97842d8b2cf6fce"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:51:16.636Z",
+    "serviceName": "Temu",
+    "sourceDocuments": [
+      {
+        "id": "privacy-and-cookie-policy",
+        "fetch": "https://www.temu.com/privacy-and-cookie-policy.html",
+        "select": [
+          "#policyContent"
+        ],
+        "remove": [
+          "#anchorWrap"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5b24412e4ad123fe01591afa4da273499c8beec2"
+      },
+      {
+        "id": "cookie-and-similar-technologies-policy",
+        "fetch": "https://www.temu.com/cookie-and-similar-technologies-policy.html",
+        "select": [
+          "#policyContent"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f83643f7f7ea467c2260213fd822af7152d3817d"
+      },
+      {
+        "id": "bgp-privacy-policy-and-setting",
+        "fetch": "https://www.temu.com/bgp-privacy-policy-and-setting.html",
+        "select": [
+          ".mainContent"
+        ],
+        "remove": [
+          "footer",
+          "#mainHeader",
+          "nav"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6ee0fdd1ca3d63b89a8eb2aadf376f79e1c7b95b"
+      },
+      {
+        "id": "policy-page",
+        "fetch": "https://seller-eu.temu.com/policy-page.html?type=5&version=1.5-EEA1.0",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "#mms-layout-header",
+          "#mms-layout-footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "645836b16575d46a829343db8a844d58049866be"
+      }
+    ]
+  }
+}

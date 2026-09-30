@@ -1,0 +1,62 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:56:20.806Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-messaging-guidelines",
+        "fetch": "https://www.whatsapp.com/legal/messaging-guidelines",
+        "select": "#content-wrapper",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "24ba5ff8c6457824c8c423bb7e0365cd4f75c0b1"
+      },
+      {
+        "id": "policy",
+        "fetch": "https://whatsappbusiness.com/policy/",
+        "select": "main",
+        "remove": [
+          "svg",
+          "img",
+          "header",
+          "footer",
+          ".wp-block-wab-table-of-contents__toggle"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "514120a45abe4e9d1c2051493aa94345ce8ae2e7"
+      },
+      {
+        "id": "legal-1014533877201092",
+        "fetch": "https://www.whatsapp.com/legal/1014533877201092",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f3f7cfe82fa70598b8206b9cf4e23c07656ae36a"
+      },
+      {
+        "id": "legal-666179685944290",
+        "fetch": "https://www.whatsapp.com/legal/666179685944290",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2ec5af5b5cf232ebb8883f71e6879a400f387ba0"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"#content-wrapper\" matches an empty content in the web page at 'https://www.whatsapp.com/legal/1014533877201092'",
+      "[extraction] Extract failed: The provided selector \"#content-wrapper\" matches an empty content in the web page at 'https://www.whatsapp.com/legal/666179685944290'"
+    ]
+  }
+}

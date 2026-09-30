@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:07:27.513Z",
+    "serviceName": "YouTube",
+    "sourceDocuments": [
+      {
+        "id": "youtube-terms-api-services-terms-of-service",
+        "fetch": "http://developers.google.com/youtube/terms/api-services-terms-of-service",
+        "select": ".devsite-article",
+        "remove": [
+          ".devsite-article-meta",
+          ".devsite-actions",
+          "devsite-thumb-rating"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c91e5f43ca7e4bd703922fd85df94d3c6d1d22bb"
+      },
+      {
+        "id": "youtube-terms-developer-policies",
+        "fetch": "https://developers.google.com/youtube/terms/developer-policies",
+        "select": ".devsite-article",
+        "remove": [
+          ".devsite-article-meta",
+          ".devsite-actions",
+          "devsite-thumb-rating"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "fdcdb957d5e853d3789e9a4c5a946131350ffb5a"
+      },
+      {
+        "id": "youtube-terms-required-minimum-functionality",
+        "fetch": "https://developers.google.com/youtube/terms/required-minimum-functionality",
+        "select": ".devsite-article",
+        "remove": [
+          ".devsite-article-meta",
+          ".devsite-actions",
+          "devsite-thumb-rating"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d3a683eee7c46ac14c419428b3cf31906ccbba74"
+      },
+      {
+        "id": "youtube-terms-subject-api-services",
+        "fetch": "https://developers.google.com/youtube/terms/subject-api-services",
+        "select": ".devsite-article",
+        "remove": [
+          ".devsite-article-meta",
+          ".devsite-actions",
+          "devsite-thumb-rating"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "aa744f08e5b4ee72a258fe071a4a9789857b90fa"
+      },
+      {
+        "id": "youtube-terms-revision-history",
+        "fetch": "https://developers.google.com/youtube/terms/revision-history",
+        "select": ".devsite-article",
+        "remove": [
+          ".devsite-article-meta",
+          ".devsite-actions",
+          "devsite-thumb-rating"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "76f7a457c4f08828caaecf81d40b843f2eefcdbe"
+      }
+    ]
+  }
+}

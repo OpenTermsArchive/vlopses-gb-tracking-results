@@ -1,0 +1,334 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:08:05.228Z",
+    "serviceName": "YouTube",
+    "sourceDocuments": [
+      {
+        "id": "howyoutubeworks-our-policies",
+        "fetch": "https://www.youtube.com/howyoutubeworks/our-policies/",
+        "select": "main",
+        "remove": [
+          ".yth-jumplinks__wrapper",
+          ".yth-img-wrapper",
+          ".yth-explore-more",
+          ".mobile-only"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3708ccfe1c31bfe7cebb9a827b7cfa227ec47be3"
+      },
+      {
+        "id": "youtube-answer-185111",
+        "fetch": "https://support.google.com/youtube/answer/185111",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "440660e10ac620763930fbcba41eaf2126a1609c"
+      },
+      {
+        "id": "youtube-answer-9288567",
+        "fetch": "https://support.google.com/youtube/answer/9288567",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "49dd2be5041ab238b587b3352b0f4ce5b453487b"
+      },
+      {
+        "id": "youtube-answer-2801973",
+        "fetch": "https://support.google.com/youtube/answer/2801973",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "061dfeb3e22766b0b36cb7e705573b880609bcf2"
+      },
+      {
+        "id": "youtube-answer-2801947",
+        "fetch": "https://support.google.com/youtube/answer/2801947",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2f2a244a6050e7075c2eb371927443ec94d923fb"
+      },
+      {
+        "id": "youtube-answer-9054257",
+        "fetch": "https://support.google.com/youtube/answer/9054257",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "703df0e5c78eeef6b06e6e1110b927772c9b3200"
+      },
+      {
+        "id": "youtube-answer-3399767",
+        "fetch": "https://support.google.com/youtube/answer/3399767",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "04906183bcc4c9e44b53d957a13a3a1f6eee3fb9"
+      },
+      {
+        "id": "youtube-answer-9713446",
+        "fetch": "https://support.google.com/youtube/answer/9713446",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "97ed8f0dec3fe5a03ac9c408773e43a3a6990cde"
+      },
+      {
+        "id": "youtube-answer-2801981",
+        "fetch": "https://support.google.com/youtube/answer/2801981",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3495d9356448aaecaf53772af5d2c83d597ece1d"
+      },
+      {
+        "id": "youtube-answer-2802002",
+        "fetch": "https://support.google.com/youtube/answer/2802002",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "47a264584e3f4ac07dce8dc14aa6c0d4545745ed"
+      },
+      {
+        "id": "youtube-answer-9229980",
+        "fetch": "https://support.google.com/youtube/answer/9229980",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "acf38e4c1a81eb7ed70b35ed36bef622744ea7a9"
+      },
+      {
+        "id": "youtube-answer-2801999",
+        "fetch": "https://support.google.com/youtube/answer/2801999",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9f1dbaa35702639f27d398bdc808aeda4635742b"
+      },
+      {
+        "id": "youtube-answer-2802245",
+        "fetch": "https://support.google.com/youtube/answer/2802245",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9fd830a3daf01b3b5b2a538722fafb7da907d217"
+      },
+      {
+        "id": "youtube-answer-10072685",
+        "fetch": "https://support.google.com/youtube/answer/10072685",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ae103eb1e334e7b55ba000041dd7e8f49347f863"
+      },
+      {
+        "id": "youtube-answer-2801964",
+        "fetch": "https://support.google.com/youtube/answer/2801964",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "151418cde819780a1958ad60ef55f253a374a74d"
+      },
+      {
+        "id": "youtube-answer-2802008",
+        "fetch": "https://support.google.com/youtube/answer/2802008",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "292676d89d0afc0582610248100d8a679ae3b6f2"
+      },
+      {
+        "id": "youtube-answer-9229472",
+        "fetch": "https://support.google.com/youtube/answer/9229472",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2f3c661ec3c3119e7e51b1d7e13f5ba3b0dd038f"
+      },
+      {
+        "id": "youtube-answer-2801939",
+        "fetch": "https://support.google.com/youtube/answer/2801939",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "8a1f17c7e032b4675dc911afdcddc7a1450d31e3"
+      },
+      {
+        "id": "youtube-answer-2802268",
+        "fetch": "https://support.google.com/youtube/answer/2802268",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "34a1c1fcef1ea02fb3598e43b1989508f867dfb6"
+      },
+      {
+        "id": "youtube-answer-9229611",
+        "fetch": "https://support.google.com/youtube/answer/9229611",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c697ccb45076c8d22865886cec76e4f88ef9ccbb"
+      },
+      {
+        "id": "youtube-answer-7667605",
+        "fetch": "https://support.google.com/youtube/answer/7667605",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0c3113dacef70c42c894332a91ad9dd0a4961e41"
+      },
+      {
+        "id": "youtube-answer-10834785",
+        "fetch": "https://support.google.com/youtube/answer/10834785",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0416af8fe0de0cc44760524501af176308be04f2"
+      },
+      {
+        "id": "youtube-answer-10835034",
+        "fetch": "https://support.google.com/youtube/answer/10835034",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "7d9a30ab60e158731dc2cf4ee44c1760478a2cac"
+      },
+      {
+        "id": "youtube-answer-13813322",
+        "fetch": "https://support.google.com/youtube/answer/13813322",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ed8927471243d06dee053a2aae0928f9c9f6e6f9"
+      },
+      {
+        "id": "youtube-answer-6345162",
+        "fetch": "https://support.google.com/youtube/answer/6345162",
+        "select": ".article-container",
+        "remove": [
+          ".ytp-cued-thumbnail-overlay",
+          "sc-client-feedback-inline-feedback-link",
+          ".inline-feedback__trackr",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6a1e52774493374777ab2f9529e894eda28e808c"
+      }
+    ]
+  }
+}

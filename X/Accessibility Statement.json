@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:58:00.491Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-resources-accessibility",
+        "fetch": "https://help.x.com/en/resources/accessibility",
+        "select": "main",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "20b17f9380f617d77cfa6cabcc0df6a7e59c0d9e"
+      }
+    ]
+  }
+}

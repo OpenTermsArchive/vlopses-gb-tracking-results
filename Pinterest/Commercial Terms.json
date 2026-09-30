@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:44:30.023Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "en-commercial-and-branded-content-guidelines",
+        "fetch": "https://policy.pinterest.com/en/commercial-and-branded-content-guidelines",
+        "select": "main",
+        "remove": "aside",
+        "mimeType": "text/html",
+        "snapshotId": "5b1b400d1d5dbe8cec46b9eab03c69c492200b4a"
+      },
+      {
+        "id": "en-advertising-guidelines",
+        "fetch": "https://policy.pinterest.com/en/advertising-guidelines",
+        "select": "main",
+        "remove": "aside",
+        "mimeType": "text/html",
+        "snapshotId": "3f1ad60eaa49ea51f67b41cc8b5c3bec446440a6"
+      },
+      {
+        "id": "en-enforcement",
+        "fetch": "https://policy.pinterest.com/en/enforcement",
+        "select": [
+          "#section-merchant-guidelines-enforcement",
+          "#section-advertising-guidelines-enforcement"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "42f88aa8922abd4a9e0b0875febed76ffd1779e0"
+      }
+    ]
+  }
+}

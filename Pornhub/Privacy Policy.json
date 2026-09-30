@@ -1,0 +1,47 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:44:47.984Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "information-privacy",
+        "fetch": "https://www.pornhub.com/information/privacy",
+        "select": [
+          "#information_privacy"
+        ],
+        "remove": [
+          ".buttonsBlock"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6f469532858aaeea3f64635d93d187c8e9a3fe2c"
+      },
+      {
+        "id": "information-processors",
+        "fetch": "https://www.pornhub.com/information/processors",
+        "select": [
+          "#information_processors"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "548e853b3a3b466056465f08d53b0d59b2c3fa83"
+      },
+      {
+        "id": "hc-en-uk-articles-42851050481811-UK-Online-Safety-Act",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/42851050481811-UK-Online-Safety-Act",
+        "select": [
+          ".article-container"
+        ],
+        "remove": [
+          ".article-vote",
+          ".article-container__sidenav",
+          ".sidenav-btn"
+        ],
+        "mimeType": null,
+        "snapshotId": null
+      }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://help.pornhub.com/hc/en-uk/articles/42851050481811-UK-Online-Safety-Act'"
+    ]
+  }
+}

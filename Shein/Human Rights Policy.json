@@ -1,0 +1,27 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:47:07.852Z",
+    "serviceName": "Shein",
+    "sourceDocuments": [
+      {
+        "id": "api-get_pdf",
+        "fetch": "https://www.sheingroup.com/api/get_pdf?url=https%3A%2F%2Fcdn.sanity.io%2Ffiles%2F44sbcf22%2Fproduction%2F05189a0d4d9bfc1ab4a188fc45370fc2c4ada8bd.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "12337b7701a6232dfdc85c4adc22bc8cea2cb3ad"
+      },
+      {
+        "id": "diversity-equity-and-inclusion-statement",
+        "fetch": "https://www.sheingroup.com/diversity-equity-and-inclusion-statement/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "576569d9726ccca23321642d5a2650334c55e912"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:57:25.910Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-business-data-transfer-addendum-uk",
+        "fetch": "https://www.whatsapp.com/legal/business-data-transfer-addendum-uk",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "86f41aa6b21c810c7eedabfdd216b5c88ff2a06e"
+      }
+    ]
+  }
+}

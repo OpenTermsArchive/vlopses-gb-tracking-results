@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:30:29.779Z",
+    "serviceName": "AliExpress",
+    "sourceDocuments": [
+      {
+        "id": "legal-agreement-terms-suit_bu1_aliexpress-suit_bu1_aliexpress202204182115_37406",
+        "fetch": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress202204182115_37406.html",
+        "select": [
+          "#ddReader"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ed3f8b7d58832a0b25ea8f45ed613069fc03af0b"
+      },
+      {
+        "id": "legal-agreement-terms-suit_bu1_aliexpress-suit_bu1_aliexpress202204182115_66077",
+        "fetch": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress202204182115_66077.html",
+        "select": [
+          "#ddReader"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ca6b87fc9165fb6b9ea0b83addc3ff42e5f07866"
+      },
+      {
+        "id": "legal-agreement-terms-c_platform_service_agreement-20230925183441576-20230925183441576",
+        "fetch": "https://terms.alicdn.com/legal-agreement/terms/c_platform_service_agreement/20230925183441576/20230925183441576.html",
+        "select": [
+          "#ddReader"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2f691b632e8f756c7bdbb2526a9bae7123c2f7fa"
+      },
+      {
+        "id": "terms-EU_EE_UK_platform_service_agreement-20250514112355975-20250514112355975",
+        "fetch": "https://cdn.contract.alibaba.com/terms/EU_EE_UK_platform_service_agreement/20250514112355975/20250514112355975.html?spm=a1zaa.8161610.0.0.23eb3e88D8S1SJ&lng=en",
+        "select": [
+          "#ddReader"
+        ],
+        "remove": [
+          "a[href*='?lng']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "45ca63d008d6e4df9f9c93ed313cb75eae792185"
+      }
+    ]
+  }
+}

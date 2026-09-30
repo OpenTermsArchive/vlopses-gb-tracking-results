@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:24:56.975Z",
+    "serviceName": "Google Shopping",
+    "sourceDocuments": [
+      {
+        "id": "files-tos-extend-GB-5_02_tos",
+        "fetch": "https://merchants.google.com/files/tos/extend/GB/5_02_tos.html",
+        "select": [
+          "body"
+        ],
+        "remove": [
+          "script"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "b00caadbf828825ac67a6ad61fb6ecf3d922e37b"
+      },
+      {
+        "id": "shopping-transactions-static-tos-us-9_00_tos",
+        "fetch": "https://www.google.com/shopping/transactions/static/tos/us/9_00_tos.html",
+        "select": [
+          "body"
+        ],
+        "remove": [
+          "script"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "e8ad8964afaf28fcb086b822c0e1c2d090a5ec64"
+      }
+    ]
+  }
+}

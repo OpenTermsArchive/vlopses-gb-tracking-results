@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:59:56.083Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "brand-resources-facebook-logo",
+        "fetch": "https://www.meta.com/brand/resources/facebook/logo/",
+        "select": [
+          "#BrandPortalPageContainer"
+        ],
+        "remove": [
+          "header",
+          "img",
+          "footer",
+          "video",
+          "span",
+          "a[href*=\"Facebook-Brand-Asset-Pack.zip\""
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "56c7c2bfd116f5e028b5b3746054e34bd9d8d48f"
+      },
+      {
+        "id": "brand-resources-facebook-messenger-icon",
+        "fetch": "https://www.meta.com/brand/resources/facebook/messenger-icon/",
+        "select": [
+          "#BrandPortalPageContainer"
+        ],
+        "remove": [
+          "header",
+          "img",
+          "footer",
+          "video",
+          "span",
+          "a[href*=\"Messenger-Icon-Pack.zip\""
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "52ed72a529edfc87553c4182a744689563831242"
+      }
+    ]
+  }
+}

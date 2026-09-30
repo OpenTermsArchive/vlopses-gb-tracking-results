@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:49:50.546Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60210/0-500",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "066dd742253d40010068a08aa7c5a0f5232e11f1"
+      }
+    ]
+  }
+}

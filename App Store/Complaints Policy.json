@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:44:49.641Z",
+    "serviceName": "App Store",
+    "sourceDocuments": [
+      {
+        "id": "legal-contact-copyright-infringement",
+        "fetch": "https://www.apple.com/legal/contact/copyright-infringement.html",
+        "select": [
+          ".section-content"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "77885fc421955a53c4fcc096bca7e2bd1b4b7862"
+      }
+    ]
+  }
+}

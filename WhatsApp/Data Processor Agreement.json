@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:56:24.781Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-business-data-processing-terms",
+        "fetch": "https://www.whatsapp.com/legal/business-data-processing-terms",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "dd56b5936c391a6578ccd9f9f2395521ef04d9f5"
+      },
+      {
+        "id": "legal-DTA",
+        "fetch": "https://www.whatsapp.com/legal/DTA",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "b711d0af6f5af01ef6e2fb0a9bf87fb60313866a"
+      },
+      {
+        "id": "legal-business-data-security-terms",
+        "fetch": "https://www.whatsapp.com/legal/business-data-security-terms",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3cdd6a30515443a26778096dcbf0e0888322cd47"
+      }
+    ]
+  }
+}

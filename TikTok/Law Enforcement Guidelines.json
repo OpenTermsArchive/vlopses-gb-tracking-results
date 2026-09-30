@@ -1,0 +1,21 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:53:16.317Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-page-global-law-enforcement-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/law-enforcement/en",
+        "select": [
+          "#policy-card"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "470e535b10ac53979eb0cb5676e32ae146989db5"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#policy-card\"]\" has no match in the web page at 'https://www.tiktok.com/legal/page/global/law-enforcement/en'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}

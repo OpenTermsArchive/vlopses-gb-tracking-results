@@ -1,0 +1,87 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:57:42.393Z",
+    "serviceName": "Wikipedia",
+    "sourceDocuments": [
+      {
+        "id": "wiki-Terms_of_Use",
+        "fetch": "https://foundation.wikimedia.org/wiki/Terms_of_Use",
+        "select": [
+          "#content"
+        ],
+        "remove": [
+          "a[title]",
+          ".nmbox",
+          "#toc"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ffd37b95f3f6ec623dcec091f2a2d5a3d46d4676"
+      },
+      {
+        "id": "wiki-Policy_Wikimedia_Foundation_Donor_SMS_Supplementary_Terms",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Foundation_Donor_SMS_Supplementary_Terms",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "82457cf1ab5491fcd07e4255c542ab908bf117a5"
+      },
+      {
+        "id": "wiki-Policy_Wikimedia_General_Disclaimer",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Wikimedia_General_Disclaimer",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ec682510a1e257aa96afb39cd61f8a759a7c08cd"
+      },
+      {
+        "id": "wiki-Resolution_Licensing_policy",
+        "fetch": "https://foundation.wikimedia.org/wiki/Resolution:Licensing_policy",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "a657f348385a8b5d21179aa181c637e2683bbb35"
+      },
+      {
+        "id": "wiki-Policy_Terms_of_Use",
+        "fetch": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "select": [
+          "#mw-content-text"
+        ],
+        "remove": [
+          "a[title]",
+          ".divlang",
+          "table.collapsible.collapsed",
+          "#catlinks",
+          ".nomobile"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "4a8fba4218fdbb6b231441403be001fdc7a36e81"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:20:50.969Z",
+    "serviceName": "Google Play",
+    "sourceDocuments": [
+      {
+        "id": "distribute-marketing-tools-brand-guidelines",
+        "fetch": "https://developer.android.com/distribute/marketing-tools/brand-guidelines",
+        "select": ".devsite-article",
+        "remove": [
+          "div[role=\"navigation\"]",
+          ".devsite-ads"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "4111d7b7a34509fb57a77e1e037c76a8ac818428"
+      }
+    ]
+  }
+}

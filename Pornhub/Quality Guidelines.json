@@ -1,0 +1,21 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:45:47.611Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "information-accessibility",
+        "fetch": "https://www.pornhub.com/information/accessibility",
+        "select": [
+          "#information_accessibility"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "04f5abb670df386e6dd016edb59d8163d047b0eb"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#information_accessibility\"]\" has no match in the web page at 'https://www.pornhub.com/information/accessibility'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}

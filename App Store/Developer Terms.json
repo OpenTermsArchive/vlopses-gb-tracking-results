@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:44:23.510Z",
+    "serviceName": "App Store",
+    "sourceDocuments": [
+      {
+        "id": "support-downloads-terms-apple-developer-agreement-Apple-Developer-Agreement-20250318-English",
+        "fetch": "https://developer.apple.com/support/downloads/terms/apple-developer-agreement/Apple-Developer-Agreement-20250318-English.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "fec7b3f95a3670e4799e68007387557928d650d6"
+      },
+      {
+        "id": "support-terms-apple-developer-program-license-agreement",
+        "fetch": "https://developer.apple.com/support/terms/apple-developer-program-license-agreement/",
+        "select": [
+          "typography-headline",
+          ".main-content"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6b4e648602b91bf68936d5e1925644bc48297e71"
+      },
+      {
+        "id": "legal-internet-services-itunes-dev-minterms",
+        "fetch": "https://www.apple.com/legal/internet-services/itunes/dev/minterms/",
+        "select": [
+          "h1",
+          ".section-content"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "01162d277e9658094f3c9d6b9ab4a14a60daffe1"
+      }
+    ]
+  }
+}

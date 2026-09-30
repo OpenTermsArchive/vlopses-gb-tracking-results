@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:54:17.543Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "help-article-ad-serving-policy",
+        "fetch": "https://ads.tiktok.com/help/article/ad-serving-policy",
+        "select": [
+          ".article_wrapper_slug_center"
+        ],
+        "remove": [
+          "feelgood-questionnaire"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6898927ebce02aaa83aa449c463a80e470949027"
+      },
+      {
+        "id": "i18n-official-policy-business-products-terms",
+        "fetch": "https://ads.tiktok.com/i18n/official/policy/business-products-terms",
+        "select": [
+          "#articleContainer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ea17dd6e10d5ad12e9727776b1ce78c2e6373afa"
+      },
+      {
+        "id": "i18n-official-policy-commercial-terms-of-service",
+        "fetch": "https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service",
+        "select": [
+          "#articleContainer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e7dd01c18e272e0c8bfd91e41f61dbe7523734ea"
+      },
+      {
+        "id": "i18n-official-policy-advertising-terms",
+        "fetch": "https://ads.tiktok.com/i18n/official/policy/advertising-terms",
+        "select": [
+          "#articleContainer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e0bd999903f154f1a31132932da1b3042c2b1098"
+      }
+    ]
+  }
+}

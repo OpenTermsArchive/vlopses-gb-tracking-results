@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:48:41.704Z",
+    "serviceName": "Shein",
+    "sourceDocuments": [
+      {
+        "id": "ranking-policy-a-1979",
+        "fetch": "https://www.shein.co.uk/ranking-policy-a-1979.html",
+        "select": "#j-new-article-bff",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "815df671a498fcd16c9f0acb57beaae6d0ed2672"
+      }
+    ]
+  }
+}

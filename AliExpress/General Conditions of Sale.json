@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:43:55.330Z",
+    "serviceName": "AliExpress",
+    "sourceDocuments": [
+      {
+        "id": "terms-c_end_product_protocol-20240529164446731-20240529164446731",
+        "fetch": "https://cdn.contract.alibaba.com/terms/c_end_product_protocol/20240529164446731/20240529164446731.html",
+        "select": [
+          "#ddReader"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bd1361dc14d9144d3467a4b6390d5eac153b2b2a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:58:08.270Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "developer-terms-agreement",
+        "fetch": "https://docs.x.com/developer-terms/agreement",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d065d3e60b910f7e7e6e75746a863eff1e158ae9"
+      },
+      {
+        "id": "developer-terms-policy",
+        "fetch": "https://docs.x.com/developer-terms/policy",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "726ce4180010ac8d73af4d249c75f53a5a420fa7"
+      },
+      {
+        "id": "developer-terms-restricted-use-cases",
+        "fetch": "https://docs.x.com/developer-terms/restricted-use-cases",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "55d3c60869d031421c55e250c76043f1560deb15"
+      },
+      {
+        "id": "developer-terms-geo-guidelines",
+        "fetch": "https://docs.x.com/developer-terms/geo-guidelines",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "06bcb49b920796b86100b0210fa914b0037803b6"
+      },
+      {
+        "id": "developer-terms-ads-api-agreement",
+        "fetch": "https://docs.x.com/developer-terms/ads-api-agreement",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "7b6cde8c0646c9577c3997147b690c5da4fdfb9f"
+      },
+      {
+        "id": "developer-terms-display-requirements",
+        "fetch": "https://docs.x.com/developer-terms/display-requirements",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "ce462f5b3516e8fd7432069137fda295c3a4cbc2"
+      },
+      {
+        "id": "developer-terms-reply-requirements",
+        "fetch": "https://docs.x.com/developer-terms/reply-requirements",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "50192295f8f405a01254bc9dc227b314f21228bc"
+      },
+      {
+        "id": "developer-terms-ppu-agreement",
+        "fetch": "https://docs.x.com/developer-terms/ppu-agreement",
+        "select": "#content-area",
+        "remove": [
+          "#page-context-menu",
+          "button",
+          "#page-context-menu-button",
+          "#footer",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "aeb19a4d7920aed58b620f7e3b98864a1da557d7"
+      }
+    ]
+  }
+}

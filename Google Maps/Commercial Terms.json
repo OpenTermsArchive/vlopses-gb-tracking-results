@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:19:28.707Z",
+    "serviceName": "Google Maps",
+    "sourceDocuments": [
+      {
+        "id": "terms-maps-platform-eea",
+        "fetch": "https://cloud.google.com/terms/maps-platform/eea",
+        "select": [
+          "#google-maps-platform-service-specific-terms",
+          "#module-5"
+        ],
+        "remove": [
+          "nav"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "b2933be2a030f32d0372d83336214b3aae8cd691"
+      }
+    ]
+  }
+}

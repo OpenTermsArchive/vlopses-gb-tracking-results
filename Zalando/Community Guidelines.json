@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:10:10.943Z",
+    "serviceName": "Zalando",
+    "sourceDocuments": [
+      {
+        "id": "faq-community-guidelines",
+        "fetch": "https://www.zalando.co.uk/faq/community-guidelines.html",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0f51fe879042a10321d8fbc20df3f4f1c90766da"
+      }
+    ]
+  }
+}

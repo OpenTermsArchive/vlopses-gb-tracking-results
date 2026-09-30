@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:30:06.084Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "privacy-policies-cookies-printable",
+        "fetch": "https://mbasic.facebook.com/privacy/policies/cookies/printable/",
+        "select": [
+          "[id='root']"
+        ],
+        "remove": [
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h",
+              "oh",
+              "oe",
+              "_nc_gid",
+              "ur"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "c121245cd86c7f50585555b765086cb2a5c10fb5"
+      }
+    ]
+  }
+}

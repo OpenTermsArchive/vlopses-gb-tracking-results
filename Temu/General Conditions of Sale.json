@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:51:47.793Z",
+    "serviceName": "Temu",
+    "sourceDocuments": [
+      {
+        "id": "return-and-refund-policy",
+        "fetch": "https://www.temu.com/return-and-refund-policy.html",
+        "select": [
+          ".mainContent"
+        ],
+        "remove": [
+          ".anchorWrap"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "861b36a698f110627c0eee8ffb2ba773573db991"
+      },
+      {
+        "id": "shipping-info",
+        "fetch": "https://www.temu.com/shipping-info.html",
+        "select": [
+          ".mainContent"
+        ],
+        "remove": [
+          "#mainHeader",
+          "img",
+          "nav",
+          "footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d8c0b25baf6c45d4bc0e44c768313187b6b06c9b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:49:03.551Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "privacy-privacy-policy",
+        "fetch": "https://values.snap.com/privacy/privacy-policy",
+        "select": "main",
+        "remove": [
+          "header",
+          ".sdsm-side-navigation",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "73b1325f51c59d42004294993a362e59bb5888b7"
+      },
+      {
+        "id": "privacy-privacy-policy-eea-uk-privacy-notice",
+        "fetch": "https://values.snap.com/privacy/privacy-policy/eea-uk-privacy-notice",
+        "select": "main",
+        "remove": [
+          "header",
+          ".sdsm-side-navigation",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "98bb9cf2c1120b3a720b7ed3468d7841c02bc78d"
+      },
+      {
+        "id": "privacy-privacy-policy-chd-privacy-policy",
+        "fetch": "https://values.snap.com/privacy/privacy-policy/chd-privacy-policy",
+        "select": "main",
+        "remove": [
+          "header",
+          ".sdsm-side-navigation",
+          "footer"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3d49bd0bd1a3da9d49ba57acd961f3c1eac78f1b"
+      },
+      {
+        "id": "privacy-ads-privacy",
+        "fetch": "https://values.snap.com/privacy/ads-privacy",
+        "select": "main",
+        "remove": [
+          "header",
+          ".sdsm-side-navigation",
+          "footer",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3dbb5db17891f5dbb6f4a287e8ab3b8af7e60a3b"
+      },
+      {
+        "id": "privacy-privacy-by-product",
+        "fetch": "https://values.snap.com/privacy/privacy-by-product",
+        "select": "main",
+        "remove": [
+          "header",
+          ".sdsm-side-navigation",
+          "footer",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "dbc524cf79ee24f165718c3f3c1f165809bb2aee"
+      },
+      {
+        "id": "privacy-your-information",
+        "fetch": "https://values.snap.com/privacy/your-information",
+        "select": "main",
+        "remove": [
+          "header",
+          ".sdsm-side-navigation",
+          "footer",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "3e8008d5143ff57a7604917a434ecf9903fa951c"
+      },
+      {
+        "id": "terms-personal-data",
+        "fetch": "https://www.snap.com/terms/personal-data",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "2a53b93ea8cacb832ed631e35b2d48b41ffdc4c1"
+      },
+      {
+        "id": "terms-standard-contractual-clauses",
+        "fetch": "https://www.snap.com/terms/standard-contractual-clauses",
+        "select": ".sdsm-page",
+        "mimeType": "text/html",
+        "snapshotId": "ecc75b06e6b549c43446d8e944e5393bd9a729e6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:53:25.313Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "doc-app-review-guidelines",
+        "fetch": "https://developers.tiktok.com/doc/app-review-guidelines/",
+        "select": [
+          "[data-e2e='TechDoc']"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2b67995305a0503c47101fb57fdcc6f054116be2"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"[data-e2e='TechDoc']\"]\" has no match in the web page at 'https://developers.tiktok.com/doc/app-review-guidelines/'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}

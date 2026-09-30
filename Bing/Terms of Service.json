@@ -1,0 +1,86 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T02:11:23.369Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "en-gb-servicesagreement",
+        "fetch": "https://www.microsoft.com/en-gb/servicesagreement",
+        "select": [
+          ".container"
+        ],
+        "remove": [
+          ".print",
+          "a[href='#page-top']",
+          ".div_print_container",
+          "span"
+        ],
+        "executeClientScripts": true,
+        "mimeType": null,
+        "snapshotId": null
+      },
+      {
+        "id": "en-gb-microsoft-copilot-for-individuals-termsofuse",
+        "fetch": "https://www.microsoft.com/en-gb/microsoft-copilot/for-individuals/termsofuse",
+        "select": [
+          "#mainContent"
+        ],
+        "remove": [
+          "a.copilot_brand"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "75b4c8c60f661b46fa8430053d46886606551145"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60321/0",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "acdf592aff2705d52bdcfbd181258a9dfa0b4916"
+      },
+      {
+        "id": "en-gb-legal-terms-of-use",
+        "fetch": "https://www.microsoft.com/en-gb/legal/terms-of-use",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "#socialfollow-07e28a38-a673-4fc2-bb5e-76dc9abcb9e",
+          "[aria-label=\"Follow us on social media\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e49fb5b28b32d645b304259d815017a3d9f98ce4"
+      },
+      {
+        "id": "terms-EndUserTerms",
+        "fetch": "https://www.bingmapsportal.com/terms/EndUserTerms",
+        "select": [
+          "#main"
+        ],
+        "remove": [
+          "#uniqueIdForList1",
+          "img",
+          "[aria-label=\"follow us on social media\"]",
+          "#layout-container-uide2af",
+          "#RichTextV1Div-richtext-uidee33"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": null
+      }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-gb/servicesagreement'"
+    ]
+  }
+}

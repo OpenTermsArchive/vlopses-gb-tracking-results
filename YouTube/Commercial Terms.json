@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:07:21.379Z",
+    "serviceName": "YouTube",
+    "sourceDocuments": [
+      {
+        "id": "t-terms_paidservice",
+        "fetch": "https://www.youtube.com/t/terms_paidservice",
+        "select": [
+          "#main-content"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "1cc5277e8eff8ef7b2e64b6be272dc21e22095e5"
+      }
+    ]
+  }
+}

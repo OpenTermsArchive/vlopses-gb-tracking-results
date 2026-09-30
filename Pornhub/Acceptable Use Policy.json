@@ -1,0 +1,89 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:45:20.873Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "hc-en-uk-articles-4419871787027-Non-Consensual-Content-Policy",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419871787027-Non-Consensual-Content-Policy",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6b78e2cac80cdc9ffa6a5deb2ee11e73588e81e1"
+      },
+      {
+        "id": "hc-en-uk-categories-4419836212499-Our-Commitment-to-Trust-and-Safety",
+        "fetch": "https://help.pornhub.com/hc/en-uk/categories/4419836212499-Our-Commitment-to-Trust-and-Safety",
+        "select": [
+          ".h2",
+          ".page-description"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "bfb8a61f8f4b797091c1eec976aca5c6f8485176"
+      },
+      {
+        "id": "hc-en-uk-articles-19159382668435-Trust-and-Safety-Initiatives",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/19159382668435-Trust-and-Safety-Initiatives",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "17df276c260971369d0967612f6638fce3e86ce6"
+      },
+      {
+        "id": "hc-en-uk-articles-4419869793683-Child-Sexual-Abuse-Material-Policy",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419869793683-Child-Sexual-Abuse-Material-Policy",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "a1c5b4e6bbfae9544a11cabc2ce66fe89d163bb4"
+      },
+      {
+        "id": "hc-en-uk-articles-7906741373971-Animal-Welfare-Policy",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/7906741373971-Animal-Welfare-Policy",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "214d9aa6a8a857c26a8db4476fe42e5aa46b1078"
+      },
+      {
+        "id": "hc-en-uk-articles-4419863430291-Violent-Content-Policy",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419863430291-Violent-Content-Policy",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "f2378d8da9ce05a02fc64e7f9d7e5569dc041714"
+      },
+      {
+        "id": "hc-en-uk-articles-4419885579795-Parental-Controls",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419885579795-Parental-Controls",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6dd6ed6a5ad7e8b0fb089eadd0bb1c8879ec4d52"
+      },
+      {
+        "id": "hc-en-uk-articles-4419839721875-What-sort-of-content-is-not-allowed-on-the-site",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419839721875-What-sort-of-content-is-not-allowed-on-the-site",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "46bd0ff79ad9b5008cf29c5e81958385f19ca494"
+      }
+    ]
+  }
+}

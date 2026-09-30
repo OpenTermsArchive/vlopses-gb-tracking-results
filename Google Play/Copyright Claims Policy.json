@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:20:53.536Z",
+    "serviceName": "Google Play",
+    "sourceDocuments": [
+      {
+        "id": "googleplay-android-developer-answer-9888072",
+        "fetch": "https://support.google.com/googleplay/android-developer/answer/9888072",
+        "select": ".article-container",
+        "mimeType": "text/html",
+        "snapshotId": "15f0508d8711fb520b094e37ee2bd6568bf99a70"
+      }
+    ]
+  }
+}

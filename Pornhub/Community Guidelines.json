@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:45:26.032Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "hc-en-uk-articles-4419900587155-Community-Guidelines",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419900587155-Community-Guidelines",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "067a2cb6b76fadc6c2f31657d87da8892c0c068d"
+      },
+      {
+        "id": "hc-en-uk-articles-14512634908819-Hate-Speech-Policy",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/14512634908819-Hate-Speech-Policy",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9c5815a5671b2e0a56988cba7c7446100df2cc7b"
+      }
+    ]
+  }
+}

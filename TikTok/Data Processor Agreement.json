@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:53:22.209Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-page-global-tiktok-data-sharing-agreement-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/tiktok-data-sharing-agreement/en",
+        "select": [
+          "#policy-card"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "e52095fa3dcef2c1de95c417788786b924e9c998"
+      }
+    ]
+  }
+}

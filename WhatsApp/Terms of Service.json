@@ -1,0 +1,67 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:55:40.570Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-terms-of-service",
+        "fetch": "https://www.whatsapp.com/legal/terms-of-service",
+        "select": "#content-wrapper",
+        "remove": [
+          "span",
+          "a[href*='/legal/privacy-policy']",
+          "a[href*='/legal/ip-policy']",
+          "a[href*='https://about.meta.com/brand/resources/whatsapp/whatsapp-brand']",
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "56825617b1df840eec39bed910f5965d5b696810"
+      },
+      {
+        "id": "legal-channels-terms-of-service",
+        "fetch": "https://www.whatsapp.com/legal/channels-terms-of-service",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "36ab881317585cf3c1e7dda9b223c3d39120e111"
+      },
+      {
+        "id": "legal-payments-terms",
+        "fetch": "https://www.whatsapp.com/legal/payments/terms",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bab47493bbe85cefd1bb6b85f7d6a912386ccb3f"
+      },
+      {
+        "id": "legal-terms-of-service-uk",
+        "fetch": "https://www.whatsapp.com/legal/terms-of-service-uk",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d5b6d307154a270482b84452e7f6a39a81f41be5"
+      }
+    ]
+  }
+}

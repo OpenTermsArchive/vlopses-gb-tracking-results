@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:44:41.767Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "hc-en-uk-articles-4419878696211-Notice-To-Our-Users",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419878696211-Notice-To-Our-Users",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d59bd9b1c61fd7bcac2279ea1f3a8b093e1b9007"
+      },
+      {
+        "id": "hc-en-uk-articles-4419883182867-Notice-To-Law-Enforcement",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419883182867-Notice-To-Law-Enforcement",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0cb594a07fdca1ef9381ed00301fcf60702681b1"
+      },
+      {
+        "id": "information-2257",
+        "fetch": "https://www.pornhub.com/information/2257",
+        "select": [
+          "#information_2257"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2910cb713ab6db74823d8e858bc85acf17e5b345"
+      },
+      {
+        "id": "hc-en-uk-articles-4419879221907-Pornhub-Trusted-Flagger-Program",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419879221907-Pornhub-Trusted-Flagger-Program",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "76026947953fae136c08413ed3de873200a24889"
+      },
+      {
+        "id": "hc-en-uk-articles-4419868912787-Content-Removal-Request-Form",
+        "fetch": "https://help.pornhub.com/hc/en-uk/articles/4419868912787-Content-Removal-Request-Form",
+        "select": [
+          "h1",
+          ".article__body"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "33731f2f2fa8741ed56d65a711b864a09655890d"
+      }
+    ]
+  }
+}

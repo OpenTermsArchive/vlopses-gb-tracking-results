@@ -1,0 +1,74 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:57:23.260Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-channels-business-terms",
+        "fetch": "https://www.whatsapp.com/legal/channels-business-terms",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5849917c6cf997914d0ec2c2fec082c5f0a9ac5a"
+      },
+      {
+        "id": "legal-business-solution-terms",
+        "fetch": "https://www.whatsapp.com/legal/business-solution-terms",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bfa9d312bb60b48feaa8c201bb8511ad8c9580a7"
+      },
+      {
+        "id": "legal-business-terms",
+        "fetch": "https://www.whatsapp.com/legal/business-terms",
+        "select": "#content-wrapper",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "68f7e131d6bda91044d2f905cd7f53b46d9f9a61"
+      },
+      {
+        "id": "legal-business-terms-for-service-providers",
+        "fetch": "https://www.whatsapp.com/legal/business-terms-for-service-providers",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d9c9336a94b022a5d1596bc7a16883c5b74511ad"
+      },
+      {
+        "id": "legal-meta-terms-whatsapp-business",
+        "fetch": "https://www.whatsapp.com/legal/meta-terms-whatsapp-business",
+        "select": "#content-wrapper",
+        "remove": [
+          "[href='#top-of-page']",
+          "#footer-wrapper",
+          "header"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "89ce2159f88aa8fb5b02cd8d0054620dceee3883"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"#content-wrapper\" has no match in the web page at 'https://www.whatsapp.com/legal/business-solution-terms'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"#content-wrapper\" has no match in the web page at 'https://www.whatsapp.com/legal/business-terms-for-service-providers'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content.",
+      "[extraction] Extract failed: The provided selector \"#content-wrapper\" has no match in the web page at 'https://www.whatsapp.com/legal/meta-terms-whatsapp-business'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}

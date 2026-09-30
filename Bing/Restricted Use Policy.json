@@ -1,0 +1,446 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T00:57:49.810Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60181/0",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c0c1c856e431407b3b0672311dd2e21defdc9f9c"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60367/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c2c05c361d14c656fd9bde282668f68d3262a5cd"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60368/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "78a006c0a5e9f498e7a54054b566641efbdc0308"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60369/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6eb27b957a116c155afc1627703801b39ea1a3ee"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60370/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f125e3938605306fb792b1cec870ea31d37662e1"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60371/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2ec67bd34ad19122ef2c61aea374d2828e6a9a93"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60372/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c5e229ca204f83e586ccf2da417a9dc77cc53556"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60373/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5c1c50ff876ee108ea2fea44c7864f68799f49cf"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60374/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "91f67f8b4ff675f9b8dd00cd6bae0490288eb645"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60375/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c8181d47620410ea221c7d2cbb2bf6bfc45534bd"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60376/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cda099350b8b4dba2a0a0cd53824ee1fa5ed36ef"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60377/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e01f05cfb0cca98da63849f8f5dff448fa097b44"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60378/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3bf8215f61b6cea70018669f02b331466394b051"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60379/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "06090dcb5b402d3687bde3457d846b1d23aaba8a"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60381/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a2ae8d843f1f9ea99e45cd090897b73ffb6d7b03"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60382/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "39d6d8d8e69170ebfc2197e9c86025ee51d33f82"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60383/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "03cc78f2bc717c4f410f70998752ae0f5afe3b90"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60384/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "889460055c4f813ed7f10ee31fadead254635183"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60385/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "401420091c48a62c01d52a5d86103f807c32b5cc"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60386/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f9e5fbc0df8810e5480ba80f88c146fb87980648"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60387/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ca1a3ca4af9091c9b28de3855948e311ad001448"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60388/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "91e69256351c93f66c01bc1ad72a934d790b809b"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60389/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7dacf90f840263465e9c6b2c272b432f44cf38f0"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60390/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "65dae020c276d688b9e257e5261001380472cd26"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60391/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "83c33665a46051154ea85ebdbe21a4c5a01eec25"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60392/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1377f43e706ad6a0ba8238b2a94ca419d68b178f"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60393/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "10a549722613d3f6b2589c48c0646e246fc2b251"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60237/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c28b834048eff3854f4db123c3390ea392f46bfd"
+      },
+      {
+        "id": "en-gb-topic-dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1",
+        "fetch": "https://support.microsoft.com/en-gb/topic/dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1",
+        "select": [
+          "#supArticleContent"
+        ],
+        "remove": [
+          ".ocArticleFooterShareContainer",
+          ".ocArticleFooterSection"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "673acdd8ec62b549682d26feb285bd2826ceebfa"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#supArticleContent\"]\" has no match in the web page at 'https://support.microsoft.com/en-gb/topic/dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}

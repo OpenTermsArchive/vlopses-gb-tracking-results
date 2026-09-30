@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:23:48.270Z",
+    "serviceName": "Google Play",
+    "sourceDocuments": [
+      {
+        "id": "googleplay-android-developer-answer-9898843",
+        "fetch": "https://support.google.com/googleplay/android-developer/answer/9898843?hl=en-IE",
+        "select": ".article-container",
+        "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
+        "mimeType": "text/html",
+        "snapshotId": "0adba1b235870d4b92974fdcd3c99243fdb608a5"
+      },
+      {
+        "id": "googleplay-android-developer-answer-9859655",
+        "fetch": "https://support.google.com/googleplay/android-developer/answer/9859655?hl=en-IE",
+        "select": ".article-container",
+        "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
+        "mimeType": "text/html",
+        "snapshotId": "46be59e78498a2eb970ca6de51e9907ee57d2f0f"
+      }
+    ]
+  }
+}

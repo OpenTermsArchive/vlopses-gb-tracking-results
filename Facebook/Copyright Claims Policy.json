@@ -1,0 +1,868 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:10:30.205Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "help-intellectual_property",
+        "fetch": "https://www.facebook.com/help/intellectual_property",
+        "select": [
+          {
+            "startBefore": "div[role=main]",
+            "endBefore": "fieldset"
+          }
+        ],
+        "remove": [
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cae8eb83f1dc4f896285636345848f20fa70eb24"
+      },
+      {
+        "id": "help-507663689427413",
+        "fetch": "https://www.facebook.com/help/507663689427413",
+        "select": [
+          "[role=main]"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "fd8ad598fba2e60d9ec4deafd02f77b71d072f50"
+      },
+      {
+        "id": "help-1378807958858854",
+        "fetch": "https://www.facebook.com/help/1378807958858854",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "18472a8ebbd3523b222097cc4fb2610f0bae5256"
+      },
+      {
+        "id": "help-349534658401968",
+        "fetch": "https://www.facebook.com/help/349534658401968",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "612160d310b114024504c8bf5af97e304f240a82"
+      },
+      {
+        "id": "help-1430594943641002",
+        "fetch": "https://www.facebook.com/help/1430594943641002",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b014fbed2d6eb5bbf9c4b2e6ffc50ed8755bcd8c"
+      },
+      {
+        "id": "help-1378621128898663",
+        "fetch": "https://www.facebook.com/help/1378621128898663",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "40c3d383496b4fade78d3e6e9f144d3bd6513f41"
+      },
+      {
+        "id": "help-1823502941230538",
+        "fetch": "https://www.facebook.com/help/1823502941230538",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7d7477b6ecddf3afb80b241a27beeacc53ba4d0c"
+      },
+      {
+        "id": "help-962020680598166",
+        "fetch": "https://www.facebook.com/help/962020680598166",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1cca400242713104589c96d16320e7855bf5d2e8"
+      },
+      {
+        "id": "help-719682678205946",
+        "fetch": "https://www.facebook.com/help/719682678205946",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d6ce6258feb1b6dcff637e4ef292d1551c0535d7"
+      },
+      {
+        "id": "help-339026683156879",
+        "fetch": "https://www.facebook.com/help/339026683156879",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f8a37f6970b57163fbe65f17a7eac89bbd5a469c"
+      },
+      {
+        "id": "help-189778307789711",
+        "fetch": "https://www.facebook.com/help/189778307789711",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8e1bf54495a6ae599d16918ab6f7e4dc167d10d2"
+      },
+      {
+        "id": "help-1900735080058381",
+        "fetch": "https://www.facebook.com/help/1900735080058381",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bb16ca618c8cdd8d3ef5eae4f8bb477bc870e836"
+      },
+      {
+        "id": "help-350712395302528",
+        "fetch": "https://www.facebook.com/help/350712395302528",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3cfb307855d7f38f52263877153c32aaeb851119"
+      },
+      {
+        "id": "help-191999230901156",
+        "fetch": "https://www.facebook.com/help/191999230901156",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d87029bdec0d539c708e2aebdccbbdeaffe82909"
+      },
+      {
+        "id": "help-401678573192627",
+        "fetch": "https://www.facebook.com/help/401678573192627",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9dd12f0a8d2f97e6d965f7401f19ecd7ab1f9697"
+      },
+      {
+        "id": "help-1250304721728220",
+        "fetch": "https://www.facebook.com/help/1250304721728220",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "aac121d0c9793b0fe5361be51a9af8851d026250"
+      },
+      {
+        "id": "help-1703586166530507",
+        "fetch": "https://www.facebook.com/help/1703586166530507",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e42bbde8c35b5179a2439413d27f6e390284afe1"
+      },
+      {
+        "id": "help-303715969677454",
+        "fetch": "https://www.facebook.com/help/303715969677454",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "524a4b09511f84926642d6714beecdc2deedda40"
+      },
+      {
+        "id": "help-493458120789098",
+        "fetch": "https://www.facebook.com/help/493458120789098",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "331523882c31bdec0370f40d7eaea0111db875c4"
+      },
+      {
+        "id": "help-258317347704209",
+        "fetch": "https://www.facebook.com/help/258317347704209",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "11b72eb9bad3fb6667d8403589362ab8d72faa00"
+      },
+      {
+        "id": "help-150318481705777",
+        "fetch": "https://www.facebook.com/help/150318481705777",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "eb05c9556ad0e90c38f0b24c60d3c883b0d275ce"
+      },
+      {
+        "id": "help-1206218382801108",
+        "fetch": "https://www.facebook.com/help/1206218382801108",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "41a7ddb672321d6e85e3a238fae321f3d251e04f"
+      },
+      {
+        "id": "help-509605252475371",
+        "fetch": "https://www.facebook.com/help/509605252475371",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d958052e56193c61759724bff251110ffa84e72f"
+      },
+      {
+        "id": "help-835772913244854",
+        "fetch": "https://www.facebook.com/help/835772913244854",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0b4719d63b761d2f602e4b62551589a58a72b942"
+      },
+      {
+        "id": "help-1020633957973118",
+        "fetch": "https://www.facebook.com/help/1020633957973118",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "95bd30e261903313d21a3d8252d216f359103799"
+      },
+      {
+        "id": "help-116772962146447",
+        "fetch": "https://www.facebook.com/help/116772962146447",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "79038ecc12a96f7f4d789a6a40187d81296f076f"
+      },
+      {
+        "id": "help-1145592148881382",
+        "fetch": "https://www.facebook.com/help/1145592148881382",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8013803f669112473ee36c8298a3a15714db2745"
+      },
+      {
+        "id": "help-1388077314536976",
+        "fetch": "https://www.facebook.com/help/1388077314536976",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5a168b000d5c4047af03711429eb8513eee6a11f"
+      },
+      {
+        "id": "help-697921770376427",
+        "fetch": "https://www.facebook.com/help/697921770376427",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5d4dd242cfcbf0f0a3d18466b44c2fbe4df49915"
+      },
+      {
+        "id": "help-308895412492789",
+        "fetch": "https://www.facebook.com/help/308895412492789",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ef6494326a54199cb972c0ae200b364df49398ae"
+      },
+      {
+        "id": "help-337995452911154",
+        "fetch": "https://www.facebook.com/help/337995452911154",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "57e696adf6bc374b16c3696197c2722b23427ae7"
+      },
+      {
+        "id": "help-225191540826940",
+        "fetch": "https://www.facebook.com/help/225191540826940",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bf749e2f5b0642bccab4f34a017c09d2d43916e2"
+      },
+      {
+        "id": "help-444933372561104",
+        "fetch": "https://www.facebook.com/help/444933372561104",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bc6b6d01a316c59319a797e03301a45fe1b5af85"
+      },
+      {
+        "id": "help-365111110185763",
+        "fetch": "https://www.facebook.com/help/365111110185763",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cab655ac831d3ab4d9d5e400efdf93dd0ca6325b"
+      },
+      {
+        "id": "help-265723950293778",
+        "fetch": "https://www.facebook.com/help/265723950293778",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e286016a18a15234d73ea2b26e2e463077a768d7"
+      },
+      {
+        "id": "help-325058084212425",
+        "fetch": "https://www.facebook.com/help/325058084212425",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "02511db06f2ad92893ca9f51e8eebf8f182f4fce"
+      },
+      {
+        "id": "help-190268144407210",
+        "fetch": "https://www.facebook.com/help/190268144407210",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "eed9f3bb7f00a99446ce8cebdb8bf358a59d52d8"
+      },
+      {
+        "id": "help-231463960277847",
+        "fetch": "https://www.facebook.com/help/231463960277847",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b33c08bcc89b12bc15671edf290af0ed9dd4ccca"
+      },
+      {
+        "id": "help-297270237338088",
+        "fetch": "https://www.facebook.com/help/297270237338088",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2fd46a561f95d2503f220e7c68e0e9cb89aac53d"
+      },
+      {
+        "id": "help-364993690187480",
+        "fetch": "https://www.facebook.com/help/364993690187480",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7de31cf0fd008baa7508abdf894d7685eb58bdee"
+      },
+      {
+        "id": "help-348831205149904",
+        "fetch": "https://www.facebook.com/help/348831205149904",
+        "select": [
+          "[role=main]"
+        ],
+        "remove": [
+          "fieldset",
+          "#Related articles"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "h"
+            ]
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "380387579436da8ce02aeb7f4337f1eceb682c3e"
+      }
+    ]
+  }
+}

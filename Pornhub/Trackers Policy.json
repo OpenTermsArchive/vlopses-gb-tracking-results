@@ -1,0 +1,24 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:45:46.559Z",
+    "serviceName": "Pornhub",
+    "sourceDocuments": [
+      {
+        "id": "information-cookie-notice",
+        "fetch": "https://www.pornhub.com/information/cookie-notice",
+        "select": [
+          "#information_cookie-notice"
+        ],
+        "remove": [
+          ".buttonsBlock"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "7aa9db79f207ee66be5ed4953000bb276403b1ff"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#information_cookie-notice\"]\" has no match in the web page at 'https://www.pornhub.com/information/cookie-notice'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}

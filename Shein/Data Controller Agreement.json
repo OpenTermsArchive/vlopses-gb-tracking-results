@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:48:32.371Z",
+    "serviceName": "Shein",
+    "sourceDocuments": [
+      {
+        "id": "wp-content-uploads-2025-10-UK-International-Transfer-Addendum",
+        "fetch": "https://www.sheingroup.com/wp-content/uploads/2025/10/UK-International-Transfer-Addendum.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "9b0002d8425c885e811a16b28439753e66c5c78f"
+      }
+    ]
+  }
+}

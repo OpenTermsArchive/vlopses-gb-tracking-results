@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T02:08:58.400Z",
+    "serviceName": "Zalando",
+    "sourceDocuments": [
+      {
+        "id": "university-article-zalandos-ethical-standards",
+        "fetch": "https://partner.zalando.com/university/article/zalandos-ethical-standards",
+        "select": [
+          "article"
+        ],
+        "remove": [
+          "img",
+          "header",
+          "footer",
+          "nav",
+          "aside"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ba34d3ca7ed900018f2a1c82a52b1b27dc56b501"
+      },
+      {
+        "id": "6h1o1uyhbb7c-6ButVPIX8A4I7ma45J6dRS-8f9acb822c69722ae906572803f7c550-Zalando-SE_Human-Rights-Policy-Statement_final_en",
+        "fetch": "https://assets.ctfassets.net/6h1o1uyhbb7c/6ButVPIX8A4I7ma45J6dRS/8f9acb822c69722ae906572803f7c550/Zalando-SE_Human-Rights-Policy-Statement_final_en.pdf",
+        "mimeType": "application/pdf",
+        "snapshotId": "59abd08886772826388adc87c92958af9bd4cfc7"
+      }
+    ]
+  }
+}

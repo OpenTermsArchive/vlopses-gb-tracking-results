@@ -1,0 +1,81 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:59:00.504Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "terms",
+        "fetch": "https://developers.facebook.com/terms",
+        "select": [
+          "#rebrandBodyID"
+        ],
+        "remove": [
+          "#devsite_header",
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "h",
+              "oh",
+              "oe",
+              "ur"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "01e9fc304d4e3c8dbed6c81f6f2d57c75b598b14"
+      },
+      {
+        "id": "devpolicy",
+        "fetch": "https://developers.facebook.com/devpolicy/",
+        "select": [
+          "#rebrandBodyID"
+        ],
+        "remove": [
+          "#devsite_header",
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "h",
+              "oh",
+              "oe",
+              "ur"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "6dac479925b93534b71a89d8f08d86e68168e3e4"
+      },
+      {
+        "id": "policy-credits",
+        "fetch": "https://developers.facebook.com/policy/credits",
+        "select": [
+          "#rebrandBodyID"
+        ],
+        "remove": [
+          "#devsite_header",
+          "img"
+        ],
+        "filter": [
+          {
+            "removeQueryParams": [
+              "_nc_gid",
+              "h",
+              "oh",
+              "oe",
+              "ur"
+            ]
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "a018c9e30639d8c8567567d3f5931c8c2e527306"
+      }
+    ]
+  }
+}

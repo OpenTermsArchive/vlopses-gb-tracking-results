@@ -1,0 +1,366 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:29:40.807Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "policies-community-standards",
+        "fetch": "https://transparency.meta.com/policies/community-standards/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "44b2b16eb6ae005516b7004a5d69a88304ded353"
+      },
+      {
+        "id": "policies-community-standards-adult-nudity-sexual-activity",
+        "fetch": "https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "dfd41f2822bba2d2419a38ca2f699c2c35f4882d"
+      },
+      {
+        "id": "policies-community-standards-child-sexual-exploitation-abuse-nudity",
+        "fetch": "https://transparency.fb.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3559cafbbc885536a77477125c0307943b0b033e"
+      },
+      {
+        "id": "policies-community-standards-spam",
+        "fetch": "https://transparency.fb.com/policies/community-standards/spam/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "65a350e095832849c5078f24a0ce89eb5cd764be"
+      },
+      {
+        "id": "policies-community-standards-fraud-and-scams",
+        "fetch": "https://transparency.meta.com/policies/community-standards/fraud-and-scams/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7f9a3852460480ded67d1c13ae8f633ada8e9147"
+      },
+      {
+        "id": "policies-community-standards-account-integrity",
+        "fetch": "https://transparency.fb.com/policies/community-standards/account-integrity/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "07d0bc3ad71cefb53cb10d56c7f463114d09961e"
+      },
+      {
+        "id": "policies-community-standards-authentic-identity-representation",
+        "fetch": "https://transparency.fb.com/policies/community-standards/authentic-identity-representation/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "46cd6bd1b3679fd6607440e6ee500bd581a798bd"
+      },
+      {
+        "id": "policies-community-standards-inauthentic-behavior",
+        "fetch": "https://transparency.fb.com/policies/community-standards/inauthentic-behavior/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "869a53e2e945c04be6b4d60f89d4b23e4db89f83"
+      },
+      {
+        "id": "policies-community-standards-dangerous-individuals-organizations",
+        "fetch": "https://transparency.fb.com/policies/community-standards/dangerous-individuals-organizations/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "88a71ccaeac850f3a7336014d3998282fb895588"
+      },
+      {
+        "id": "policies-community-standards-sexual-solicitation",
+        "fetch": "https://transparency.fb.com/policies/community-standards/sexual-solicitation/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5d789b39566b7fbdbe7390eaf960088eac3c37b0"
+      },
+      {
+        "id": "policies-community-standards-restricted-goods-services",
+        "fetch": "https://transparency.meta.com/policies/community-standards/restricted-goods-services/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a67e47f975ed6400bac0eeea6f9400a1249a036b"
+      },
+      {
+        "id": "policies-community-standards-adult-sexual-exploitation",
+        "fetch": "https://transparency.meta.com/policies/community-standards/adult-sexual-exploitation/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3e3b39bbc67bf9ee57d497d60cf6ed1d2c363299"
+      },
+      {
+        "id": "policies-community-standards-violence-incitement",
+        "fetch": "https://transparency.fb.com/policies/community-standards/violence-incitement/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4bcd4bbd28c3e42bd840ec93b88f30e781e6f261"
+      },
+      {
+        "id": "policies-community-standards-hateful-conduct",
+        "fetch": "https://transparency.meta.com/policies/community-standards/hateful-conduct/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ed526990f76c303127d00ef740d9e081790b382a"
+      },
+      {
+        "id": "policies-community-standards-bullying-harassment",
+        "fetch": "https://transparency.fb.com/policies/community-standards/bullying-harassment/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "40628ffbb038f865a45592da0ec6246be5c3ab94"
+      },
+      {
+        "id": "policies-community-standards-suicide-self-injury",
+        "fetch": "https://transparency.fb.com/policies/community-standards/suicide-self-injury/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "da1a043a9d85c27a0bb0808e1052c8cc26256653"
+      },
+      {
+        "id": "policies-community-standards-violent-graphic-content",
+        "fetch": "https://transparency.fb.com/policies/community-standards/violent-graphic-content/",
+        "select": [
+          {
+            "startBefore": "main",
+            "endBefore": "#user-experiences"
+          }
+        ],
+        "remove": [
+          "nav",
+          "[href=\"#user-experiences\"]",
+          "[href=\"#data\"]",
+          "[href=\"#policy-details\"]",
+          "footer",
+          "div[role=\"tablist\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c4f219f426e3396e1074b776cc11a2f84e77b360"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"main\",\"endBefore\":\"#user-experiences\"}"
+    ]
+  }
+}

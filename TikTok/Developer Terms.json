@@ -1,0 +1,35 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:53:21.601Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-page-global-tik-tok-developer-terms-of-service-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/tik-tok-developer-terms-of-service/en",
+        "select": "#policy-card",
+        "mimeType": "text/html",
+        "snapshotId": "3402149d13c683b4fdbd76c40d7f9c29261fe075"
+      },
+      {
+        "id": "legal-page-global-tiktok-data-sharing-agreement-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/tiktok-data-sharing-agreement/en",
+        "select": "#policy-card",
+        "mimeType": "text/html",
+        "snapshotId": "4a264374d28d45e89e0ef466dccbae6242f4799f"
+      },
+      {
+        "id": "doc-content-sharing-guidelines",
+        "fetch": "https://developers.tiktok.com/doc/content-sharing-guidelines",
+        "select": [
+          "[data-e2e='TechDoc']"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "24b8fd82a56fe781b9f292bf2a49bae20ebcefa9"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"[data-e2e='TechDoc']\"]\" has no match in the web page at 'https://developers.tiktok.com/doc/content-sharing-guidelines'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}

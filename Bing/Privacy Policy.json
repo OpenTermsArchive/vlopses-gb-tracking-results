@@ -1,0 +1,43 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-10-01T02:08:25.115Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "en-gb-privacy-privacystatement",
+        "fetch": "https://www.microsoft.com/en-gb/privacy/privacystatement",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          ".print-expand-all",
+          "a[href='#']",
+          "div.expand-collapse-toggle-btn",
+          "print-expand-action-bar",
+          "header",
+          "footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": null,
+        "snapshotId": null
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/ext60211",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8d7f00cdac423ca700b9a9fc5557128700156d78"
+      }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-gb/privacy/privacystatement'"
+    ]
+  }
+}

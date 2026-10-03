@@ -1,0 +1,58 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-10-03T02:07:28.968Z",
+    "serviceName": "Bing",
+    "sourceDocuments": [
+      {
+        "id": "en-gb-policies-intellectual-property-policies",
+        "fetch": "https://about.ads.microsoft.com/en-gb/policies/intellectual-property-policies",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4a27556ff105b0541c8274496b9da0220e7a71e6"
+      },
+      {
+        "id": "",
+        "fetch": "https://help.ads.microsoft.com/#apex/ads/en/60361/-1",
+        "select": [
+          "#cntnt"
+        ],
+        "remove": [
+          "*[style='display:none;']",
+          "img",
+          ".HelpTopic"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5a64f31041bee0109c30f2b58a6c3bbbf289a5c6"
+      },
+      {
+        "id": "en-gb-legal-intellectualproperty-trademarks",
+        "fetch": "https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "img",
+          "[aria-label=\"follow us on social media\"]",
+          "#layout-container-uide2af",
+          "#RichTextV1Div-richtext-uidee33"
+        ],
+        "executeClientScripts": true,
+        "mimeType": null,
+        "snapshotId": null
+      }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks'"
+    ]
+  }
+}

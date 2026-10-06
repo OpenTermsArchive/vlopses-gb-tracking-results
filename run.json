@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-06T12:30:08.411Z",
-    "endDate": null,
+    "endDate": "2026-10-06T14:06:03.466Z",
     "engineVersion": "16.2.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "8783a07a3e35a4fe25168b65e9bce453e23085a5",
@@ -14,16 +14,25 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 187,
+    "failed": 17
   },
   "coverage": {
-    "processed": 0,
+    "processed": 204,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [],
+    "recoveries": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Pornhub",
+        "termsType": "Trackers Policy"
+      }
+    ],
     "reasonChanges": []
   },
   "transientErrors": 0

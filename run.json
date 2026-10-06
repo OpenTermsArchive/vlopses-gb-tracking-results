@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-f583de61-d89f-4471-8595-93410167f8a7",
+  "runId": "ota-run-f046c2d0-ea7a-405b-9ec7-b1d02a91713e",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-05T12:30:07.777Z",
-    "endDate": "2026-10-05T14:06:44.838Z",
+    "startDate": "2026-10-06T00:30:08.538Z",
+    "endDate": null,
     "engineVersion": "16.2.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "8783a07a3e35a4fe25168b65e9bce453e23085a5",
@@ -14,22 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 185,
-    "failed": 19
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 204,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }

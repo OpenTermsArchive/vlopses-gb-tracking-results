@@ -1,38 +1,29 @@
 {
-  "runId": "ota-run-55377dcb-d0bc-4a30-b4af-1f5f03369354",
+  "runId": "ota-run-76c72dd3-ac15-4f2c-92e0-89db9120a97e",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-06T12:30:08.411Z",
-    "endDate": "2026-10-06T14:06:03.466Z",
-    "engineVersion": "16.2.0",
-    "status": "completed"
+    "startDate": "2026-10-07T00:30:07.727Z",
+    "endDate": null,
+    "engineVersion": "16.3.0",
+    "status": "in_progress"
   },
   "declarations": {
-    "commit": "8783a07a3e35a4fe25168b65e9bce453e23085a5",
+    "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
     "services": 24,
     "terms": 210
   },
   "tracked": {
-    "ok": 187,
-    "failed": 17
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 204,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Pornhub",
-        "termsType": "Trackers Policy"
-      }
-    ],
+    "recoveries": [],
     "reasonChanges": []
   },
   "transientErrors": 0

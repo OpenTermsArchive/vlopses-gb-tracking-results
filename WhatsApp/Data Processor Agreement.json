@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:56:24.781Z",
+    "date": "2026-10-07T02:06:44.566Z",
     "serviceName": "WhatsApp",
     "sourceDocuments": [
       {
@@ -14,7 +14,7 @@
           "header"
         ],
         "mimeType": "text/html",
-        "snapshotId": "dd56b5936c391a6578ccd9f9f2395521ef04d9f5"
+        "snapshotId": "f8f6c493082d0217b9dfcb6447e8a4495f6c0707"
       },
       {
         "id": "legal-DTA",
@@ -26,7 +26,7 @@
           "header"
         ],
         "mimeType": "text/html",
-        "snapshotId": "b711d0af6f5af01ef6e2fb0a9bf87fb60313866a"
+        "snapshotId": "3ad0cbd84b2989b00555cb9d5c8db87d2c5615d3"
       },
       {
         "id": "legal-business-data-security-terms",
@@ -38,8 +38,13 @@
           "header"
         ],
         "mimeType": "text/html",
-        "snapshotId": "3cdd6a30515443a26778096dcbf0e0888322cd47"
+        "snapshotId": "869fd6dcc369b644009a574a55fe4ead609a990b"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 500 when trying to fetch 'https://www.whatsapp.com/legal/business-data-security-terms'"
+      ]
+    }
   }
 }

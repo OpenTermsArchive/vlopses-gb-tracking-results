@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-76c72dd3-ac15-4f2c-92e0-89db9120a97e",
+  "runId": "ota-run-04756a24-043a-4d16-92cc-7ac6c085d280",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-07T00:30:07.727Z",
-    "endDate": "2026-10-07T02:06:44.649Z",
+    "startDate": "2026-10-07T12:30:08.529Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,11 +14,11 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 187,
-    "failed": 17
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 204,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
@@ -26,5 +26,5 @@
     "recoveries": [],
     "reasonChanges": []
   },
-  "transientErrors": 2
+  "transientErrors": 0
 }

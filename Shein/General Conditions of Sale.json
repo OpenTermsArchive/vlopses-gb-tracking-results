@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:47:29.708Z",
+    "date": "2026-10-07T02:06:42.344Z",
     "serviceName": "Shein",
     "sourceDocuments": [
       {
@@ -13,8 +13,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "aef67a48e99ff33f379fc6f6f86ef693e1266d58"
+        "snapshotId": "760777097465a88f654ca17629982fb5e0e1943b"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.shein.co.uk/Return-Policy-a-281.html'"
+      ]
+    }
   }
 }

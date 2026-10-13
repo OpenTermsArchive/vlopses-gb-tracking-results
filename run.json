@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-13T00:30:08.056Z",
-    "endDate": null,
+    "endDate": "2026-10-13T02:05:01.969Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,15 +14,24 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 185,
+    "failed": 20
   },
   "coverage": {
-    "processed": 0,
+    "processed": 205,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
+    "newFailures": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "TikTok",
+        "termsType": "Trackers Policy"
+      }
+    ],
     "recoveries": [],
     "reasonChanges": []
   },

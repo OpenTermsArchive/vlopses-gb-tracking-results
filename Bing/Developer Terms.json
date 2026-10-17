@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-16T14:08:58.773Z",
+    "date": "2026-10-17T00:57:57.041Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           "[aria-label=\"Show additional social media links\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2d54db39402ffffbf2fbff8731318eb82cee6b3a"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en/bing/apis/legal'"
     ]
   }
 }

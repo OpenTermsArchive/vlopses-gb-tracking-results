@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-cb377209-4a67-4724-b6b9-4331bcbbed43",
+  "runId": "ota-run-11f4420a-a4df-49b1-9a65-7646bda431a8",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-19T00:30:08.467Z",
-    "endDate": "2026-10-19T02:06:33.916Z",
+    "startDate": "2026-10-19T12:30:08.481Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,31 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 186,
-    "failed": 20
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 206,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Developer Terms"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Content Monetisation Policy"
-      }
-    ],
+    "newFailures": [],
+    "recoveries": [],
     "reasonChanges": []
   },
-  "transientErrors": 1
+  "transientErrors": 0
 }

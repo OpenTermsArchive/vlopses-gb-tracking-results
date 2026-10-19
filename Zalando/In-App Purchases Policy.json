@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-16T02:06:30.070Z",
+    "date": "2026-10-19T02:06:33.815Z",
     "serviceName": "Zalando",
     "sourceDocuments": [
       {
@@ -12,8 +12,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d868c8627f853568d04e69f89646e5b3f4707e90"
+        "snapshotId": "eb50b528d6a7e1c9f65cc157133587dff5d0b31a"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.zalando.co.uk/terms-giftcards/'"
+      ]
+    }
   }
 }

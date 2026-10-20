@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:58:00.491Z",
+    "date": "2026-10-20T02:03:49.371Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -9,9 +9,12 @@
         "fetch": "https://help.x.com/en/resources/accessibility",
         "select": "main",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "20b17f9380f617d77cfa6cabcc0df6a7e59c0d9e"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://help.x.com/en/resources/accessibility'"
     ]
   }
 }

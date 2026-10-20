@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:59:06.780Z",
+    "date": "2026-10-20T02:03:58.418Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": "main",
         "remove": "[aria-label=\"Breadcrumbs\"]",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "29b1bc0825c6f2c1a538183cf7c070fed175754f"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "en-rules-and-policies-automated-claims-policy",
@@ -19,9 +19,13 @@
         "select": "main",
         "remove": "[aria-label=\"Breadcrumbs\"]",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "09901cd2cc1ce123edeef6a4c34617e80aac3092"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://help.x.com/en/rules-and-policies/copyright-policy'",
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://help.x.com/en/rules-and-policies/automated-claims-policy'"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-20T02:02:30.537Z",
+    "date": "2026-10-20T14:00:55.249Z",
     "serviceName": "Zalando",
     "sourceDocuments": [
       {
@@ -13,11 +13,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "940d922581f8b8472230319b1af65cd1437e28c4"
+        "snapshotId": "5fca406e5f57d3531496a7215211f942d33839e5"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"h1\",\".article__body\"]\" has no match in the web page at 'https://www.zalando.co.uk/faq/community-guidelines.html'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }

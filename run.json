@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-475c25ac-ba75-4cbb-a070-2ec7cb1c5a53",
+  "runId": "ota-run-94838c6a-5472-4e26-a886-c0e3d4b21d5c",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-20T00:30:08.152Z",
-    "endDate": "2026-10-20T02:05:00.822Z",
+    "startDate": "2026-10-20T12:30:08.245Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,63 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 177,
-    "failed": 28
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 205,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Developer Terms"
-      },
-      {
-        "serviceId": "Zalando",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Accessibility Statement"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Law Enforcement Guidelines"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Data Processor Agreement"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Content Monetisation Policy"
-      },
-      {
-        "serviceId": "X",
-        "termsType": "Brand Guidelines"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Privacy Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }

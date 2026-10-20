@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-19T12:58:44.378Z",
+    "date": "2026-10-20T00:57:54.386Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -15,9 +15,12 @@
           "[aria-label=\"Show additional social media links\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "44743aea6bd63b3dd9437f7c704f926e09c49cb9"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://www.microsoft.com/en/bing/apis/legal'"
     ]
   }
 }

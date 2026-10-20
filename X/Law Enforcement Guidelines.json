@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:58:38.943Z",
+    "date": "2026-10-20T02:03:53.461Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -9,9 +9,12 @@
         "fetch": "https://help.x.com/en/rules-and-policies/x-law-enforcement-support",
         "select": "main",
         "remove": "[aria-label=\"Breadcrumbs\"]",
-        "mimeType": "text/html",
-        "snapshotId": "9ee9b608e1b70a88e0e557befa2e91aded5c7782"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://help.x.com/en/rules-and-policies/x-law-enforcement-support'"
     ]
   }
 }

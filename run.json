@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-94838c6a-5472-4e26-a886-c0e3d4b21d5c",
+  "runId": "ota-run-c38ce9a9-29ab-4a08-a5b3-8222189eeac7",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-20T12:30:08.245Z",
-    "endDate": "2026-10-20T14:02:20.142Z",
+    "startDate": "2026-10-21T00:30:08.367Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,36 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 178,
-    "failed": 27
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 205,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Developer Terms"
-      },
-      {
-        "serviceId": "Zalando",
-        "termsType": "Community Guidelines"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Copyright Claims Policy"
-      }
-    ]
+    "newFailures": [],
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }

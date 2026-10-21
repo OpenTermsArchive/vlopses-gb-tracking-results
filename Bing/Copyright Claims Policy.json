@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-21T02:01:35.351Z",
+    "date": "2026-10-21T12:47:00.280Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dbcab35ea11efb64d92b5523e96383e766f05098"
+        "snapshotId": "dea76e54dbf66ac8d365667af89ec62ed71aad79"
       },
       {
         "id": "",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2b963eedd65315e5d64eae8cb6ffeefb2e581f5c"
+        "snapshotId": "8d448eb9af9fea863a04f323efb673809117fe30"
       },
       {
         "id": "en-gb-legal-intellectualproperty-trademarks",
@@ -52,7 +52,7 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks'"
+      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks'"
     ]
   }
 }

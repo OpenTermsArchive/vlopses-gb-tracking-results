@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:05:52.390Z",
+    "date": "2026-10-22T01:56:49.336Z",
     "serviceName": "XNXX",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "058d55e5489bb77f113ced90fb92b5b088a0888d"
       },
       {
         "id": "parents",
@@ -19,13 +19,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bb9d444b387362a8bb02e01fb27df11468f95da9"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/legal/control'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/parents'"
     ]
   }
 }

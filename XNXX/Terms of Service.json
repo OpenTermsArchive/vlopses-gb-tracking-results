@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:05:52.655Z",
+    "date": "2026-10-22T01:56:52.093Z",
     "serviceName": "XNXX",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0b15f29c25444ecac74d5fb488e76173df023e33"
       },
       {
         "id": "legal-tos",
@@ -19,13 +19,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0b15f29c25444ecac74d5fb488e76173df023e33"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/legal/tos'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.gold/legal/tos'"
     ]
   }
 }

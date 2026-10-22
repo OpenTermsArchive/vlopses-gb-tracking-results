@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-b76cd0bb-2ff1-4280-aae5-86bbfab0c8a8",
+  "runId": "ota-run-4a3c68ec-1a0b-4a68-a462-7aab521d86e8",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-21T12:30:08.028Z",
-    "endDate": "2026-10-21T14:05:53.494Z",
+    "startDate": "2026-10-22T00:30:08.639Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,80 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 166,
-    "failed": 39
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 205,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Law Enforcement Guidelines"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Acceptable Use Policy"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Acceptable Use Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Terms of Service"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Terms of Service"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Content Monetisation Policy"
-      }
-    ]
+    "newFailures": [],
+    "recoveries": [],
+    "reasonChanges": []
   },
-  "transientErrors": 1
+  "transientErrors": 0
 }

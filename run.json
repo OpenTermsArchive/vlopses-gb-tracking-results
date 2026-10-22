@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-4a3c68ec-1a0b-4a68-a462-7aab521d86e8",
+  "runId": "ota-run-db66dc32-9ccd-400c-a483-7db0c81f933d",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-22T00:30:08.639Z",
-    "endDate": "2026-10-22T02:02:23.958Z",
+    "startDate": "2026-10-22T12:30:08.612Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,71 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 178,
-    "failed": 27
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 205,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Law Enforcement Guidelines"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Content Monetisation Policy"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Acceptable Use Policy"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "XNXX",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Acceptable Use Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "XVideos",
-        "termsType": "Terms of Service"
-      }
-    ],
-    "reasonChanges": [
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      }
-    ]
+    "recoveries": [],
+    "reasonChanges": []
   },
   "transientErrors": 0
 }

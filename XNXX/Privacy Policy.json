@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:05:52.504Z",
+    "date": "2026-10-22T01:56:50.674Z",
     "serviceName": "XNXX",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0cb9390e58ff3b1f5bf125feb792bdfdd145a6b1"
       },
       {
         "id": "legal-privacynotice",
@@ -19,13 +19,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9b137f04625faf9b3c27643295dee4a532047d5f"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/legal/privacy'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xnxx.com/legal/privacynotice'"
     ]
   }
 }

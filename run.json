@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-22T00:30:08.639Z",
-    "endDate": null,
+    "endDate": "2026-10-22T02:02:23.958Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,17 +14,71 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 178,
+    "failed": 27
   },
   "coverage": {
-    "processed": 0,
+    "processed": 205,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "recoveries": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Law Enforcement Guidelines"
+      },
+      {
+        "serviceId": "Instagram",
+        "termsType": "Content Monetisation Policy"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Acceptable Use Policy"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Terms of Service"
+      },
+      {
+        "serviceId": "XNXX",
+        "termsType": "Trackers Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Acceptable Use Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Trackers Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "XVideos",
+        "termsType": "Terms of Service"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      }
+    ]
   },
   "transientErrors": 0
 }

@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-21T14:05:53.137Z",
+    "date": "2026-10-22T01:56:55.002Z",
     "serviceName": "XVideos",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": [
           "#main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "acf18f80677c5315ffd1b74ce27ce884eca3bd8e"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://info.xvideos.net/legal/cookiepolicy'"
     ]
   }
 }

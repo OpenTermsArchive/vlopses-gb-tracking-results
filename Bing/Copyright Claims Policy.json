@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-21T12:47:00.280Z",
+    "date": "2026-10-23T02:04:18.679Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dea76e54dbf66ac8d365667af89ec62ed71aad79"
+        "snapshotId": "e198a649a8ab7e7f921273ccf7d71921442888f5"
       },
       {
         "id": "",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8d448eb9af9fea863a04f323efb673809117fe30"
+        "snapshotId": "538598fd322a83d359bf2d4c194ae4c8f592a798"
       },
       {
         "id": "en-gb-legal-intellectualproperty-trademarks",
@@ -52,7 +52,7 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks'"
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks'"
     ]
   }
 }

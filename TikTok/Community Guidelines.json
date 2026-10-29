@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-28T14:04:20.664Z",
+    "date": "2026-10-29T01:49:07.514Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "72734e1558d2ddb9b219dce5a67658b1075ce4fd"
+        "snapshotId": "93ab999e0b326e186fad4851889aacafd07f9e1d"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -58,7 +58,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2050bc901eebcd10573e90eab145c6125979d98b"
+        "snapshotId": "baeae107bd6e1d5c87396aa21fe87e766420e23a"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -72,7 +72,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "abae7b363e82e8763bb412e5cec7959b4710134a"
+        "snapshotId": "c582d27a7dab5dcafc9913340bae083713cfac9a"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -86,7 +86,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "509779884a34755824ffef4005290a289c0cc606"
+        "snapshotId": "8b9a8a76b2f16d015f567d3ccb73e4c0dee8abba"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -172,18 +172,6 @@
         "mimeType": "text/html",
         "snapshotId": "7a66aee87a2d3765b9ac6067e95c8ade23be5d0a"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/community-principles/?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/safety/en/policies-and-engagement/youth-safety?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/safety-civility/?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/mental-behavioral-health/?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Received HTTP code 500 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes/?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/safety/en/policies-and-engagement/fyf-standards?cgversion=2025H2update'",
-        "[fetch] Fetch failed: Received HTTP code 500 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/accounts-features/?cgversion=2025H2update'"
-      ]
-    }
+    ]
   }
 }

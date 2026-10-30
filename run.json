@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-30T12:30:08.737Z",
-    "endDate": null,
+    "endDate": "2026-10-30T14:02:24.207Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,17 +14,40 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 175,
+    "failed": 29
   },
   "coverage": {
-    "processed": 0,
+    "processed": 204,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "newFailures": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Terms of Service"
+      }
+    ],
+    "recoveries": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Content Monetisation Policy"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Data Processor Agreement"
+      },
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Commercial Terms"
+      }
+    ]
   },
   "transientErrors": 0
 }

@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-10-30T01:42:37.502Z",
+    "date": "2026-10-30T13:44:31.983Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
         "fetch": "https://www.snap.com/terms/data-transfer-agreement",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "ee802be446540f0e4e06899c442c6ae7c4daa42e"
+        "snapshotId": "5d353d6857902a7b8528fc336a42a16f400c82ce"
       },
       {
         "id": "terms-data-processing-agreement",
@@ -27,13 +27,11 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "1898ddcc05cbfa04d44322ab28f1624dfa5f6396"
+        "snapshotId": "7cb2008d73b6132b836fd2691b8415ff397a371d"
       }
     ],
     "reasons": [
-      "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/data-sharing-agreement'",
-      "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/data-transfer-agreement'",
-      "[extraction] Extract failed: The provided selector \"main\" matches an empty content in the web page at 'https://www.snap.com/terms/data-processing-agreement'"
+      "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/data-sharing-agreement'"
     ]
   }
 }

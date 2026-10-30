@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-29T01:49:07.514Z",
+    "date": "2026-10-30T02:02:12.782Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "93ab999e0b326e186fad4851889aacafd07f9e1d"
+        "snapshotId": "2ab391969e394be4e58872e3f68135d47cd03227"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "492a7d216401ff6cef5bd97ecc74d5770445c972"
+        "snapshotId": "5f61cf2f218132cf8217f1303f5ae7ef43414892"
       },
       {
         "id": "safety-en-policies-and-engagement-youth-safety",
@@ -172,6 +172,11 @@
         "mimeType": "text/html",
         "snapshotId": "7a66aee87a2d3765b9ac6067e95c8ade23be5d0a"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/safety/en/policies-and-engagement/youth-safety?cgversion=2025H2update'"
+      ]
+    }
   }
 }

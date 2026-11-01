@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-31T13:47:31.770Z",
+    "date": "2026-11-01T01:48:41.503Z",
     "serviceName": "Temu",
     "sourceDocuments": [
       {
@@ -18,7 +18,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5e27ac59d6f75b168f2a272f61ed143b29abefca"
+        "snapshotId": "cbe47b6b2f73d14749b25109d9a9bece51046891"
       },
       {
         "id": "community-guidelines",
@@ -34,11 +34,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fb2eace4d03f8a5215b55a75269eee8009a8eb3a"
+        "snapshotId": "e4ff3e0b35afaa36b699382ec0a440a41e7ff2df"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\".mainContent\"]\" has no match in the web page at 'https://www.temu.com/review_guidelines.html'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }

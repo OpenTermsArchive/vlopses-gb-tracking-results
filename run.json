@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-488dd178-9330-41d8-b47c-5373011de528",
+  "runId": "ota-run-49ba7814-d348-4f7c-a728-6b5eb802063c",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-03T00:30:08.842Z",
-    "endDate": "2026-11-03T02:07:13.037Z",
+    "startDate": "2026-11-03T12:30:08.195Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "0888b3498322337d4f880bdab10b1787570a63fe",
@@ -14,111 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 161,
-    "failed": 46
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 207,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Google Maps",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Google Maps",
-        "termsType": "Complaints Policy"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Google Play",
-        "termsType": "Quality Guidelines"
-      },
-      {
-        "serviceId": "Google Shopping",
-        "termsType": "Marketplace Sellers Conditions"
-      },
-      {
-        "serviceId": "Google Shopping",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Law Enforcement Guidelines"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Content Monetisation Policy"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Content Monetisation Policy"
-      },
-      {
-        "serviceId": "YouTube",
-        "termsType": "Complaints Policy"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Google Play",
-        "termsType": "Developer Terms"
-      },
-      {
-        "serviceId": "Instagram",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Copyright Claims Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Privacy Policy"
-      },
-      {
-        "serviceId": "Bing",
-        "termsType": "Restricted Use Policy"
-      }
-    ]
+    "reasonChanges": []
   },
-  "transientErrors": 1
+  "transientErrors": 0
 }

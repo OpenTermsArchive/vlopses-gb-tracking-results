@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-09-30T00:57:49.810Z",
+    "date": "2026-11-03T02:05:03.870Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c0c1c856e431407b3b0672311dd2e21defdc9f9c"
+        "snapshotId": "94397887e115a6bf046a2cc6060ac9e780f2aec0"
       },
       {
         "id": "",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c2c05c361d14c656fd9bde282668f68d3262a5cd"
+        "snapshotId": "e97c77470ef203422f4bf78162b4b69814c942c3"
       },
       {
         "id": "",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "78a006c0a5e9f498e7a54054b566641efbdc0308"
+        "snapshotId": "0cbc7fd5baf465d56604c5341793c3fca3cad3d3"
       },
       {
         "id": "",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6eb27b957a116c155afc1627703801b39ea1a3ee"
+        "snapshotId": "d775895969d7ba58ad6c027d1aeb88a5ccf244a8"
       },
       {
         "id": "",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f125e3938605306fb792b1cec870ea31d37662e1"
+        "snapshotId": "d52f2d9f7cdd5f384af6f04164fc0158ca271389"
       },
       {
         "id": "",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2ec67bd34ad19122ef2c61aea374d2828e6a9a93"
+        "snapshotId": "71940b7bdb9f4d098e65c8895383427af8904726"
       },
       {
         "id": "",
@@ -107,7 +107,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c5e229ca204f83e586ccf2da417a9dc77cc53556"
+        "snapshotId": "2034995df17cfa1e8d10242894f6d3ecdbfd5c58"
       },
       {
         "id": "",
@@ -122,7 +122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5c1c50ff876ee108ea2fea44c7864f68799f49cf"
+        "snapshotId": "3122f18224627c6d7beb9ce3a92e315d107c7b9b"
       },
       {
         "id": "",
@@ -137,7 +137,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "91f67f8b4ff675f9b8dd00cd6bae0490288eb645"
+        "snapshotId": "2b8dcb04d635b34f492dcfda1dbd06caec38e860"
       },
       {
         "id": "",
@@ -152,7 +152,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c8181d47620410ea221c7d2cbb2bf6bfc45534bd"
+        "snapshotId": "26fdcd2328f88a23f866566376caa5da23e214bc"
       },
       {
         "id": "",
@@ -167,7 +167,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cda099350b8b4dba2a0a0cd53824ee1fa5ed36ef"
+        "snapshotId": "42ba2583cf1209cf0dad56430429c29e05cd9e87"
       },
       {
         "id": "",
@@ -182,7 +182,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e01f05cfb0cca98da63849f8f5dff448fa097b44"
+        "snapshotId": "a451b65d94ff801923410b44046a56ddde976187"
       },
       {
         "id": "",
@@ -197,7 +197,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3bf8215f61b6cea70018669f02b331466394b051"
+        "snapshotId": "680e655d9c23f2c5921fe92054421185ec971baa"
       },
       {
         "id": "",
@@ -212,7 +212,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "06090dcb5b402d3687bde3457d846b1d23aaba8a"
+        "snapshotId": "455df7eb3f38ed97292be7cba78f2a1e022ba68d"
       },
       {
         "id": "",
@@ -227,7 +227,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a2ae8d843f1f9ea99e45cd090897b73ffb6d7b03"
+        "snapshotId": "13bb3f25f59fb86238fcfb34cd4a2283a233821a"
       },
       {
         "id": "",
@@ -242,7 +242,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "39d6d8d8e69170ebfc2197e9c86025ee51d33f82"
+        "snapshotId": "91f08c6848612d345aa7744ccd11d8a30e532f46"
       },
       {
         "id": "",
@@ -257,7 +257,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "03cc78f2bc717c4f410f70998752ae0f5afe3b90"
+        "snapshotId": "a37b52e3934c1d690490fb31a12292d4ef9c8190"
       },
       {
         "id": "",
@@ -272,7 +272,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "889460055c4f813ed7f10ee31fadead254635183"
+        "snapshotId": "6cdafd2c6924dd4fdbbdfeb4f60df39f804c5904"
       },
       {
         "id": "",
@@ -287,7 +287,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "401420091c48a62c01d52a5d86103f807c32b5cc"
+        "snapshotId": "e00756c352c858caaec5345bbe769c7c4c88ec94"
       },
       {
         "id": "",
@@ -302,7 +302,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f9e5fbc0df8810e5480ba80f88c146fb87980648"
+        "snapshotId": "7bef8b19d6394a08c52b09ae28a321baf35f0786"
       },
       {
         "id": "",
@@ -317,7 +317,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ca1a3ca4af9091c9b28de3855948e311ad001448"
+        "snapshotId": "998d5d3b82fb8e96087de57bba30f98a2cecc42b"
       },
       {
         "id": "",
@@ -332,7 +332,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "91e69256351c93f66c01bc1ad72a934d790b809b"
+        "snapshotId": "0dc8f91b5c81a17bf774d309d38f191dfae25d29"
       },
       {
         "id": "",
@@ -347,7 +347,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7dacf90f840263465e9c6b2c272b432f44cf38f0"
+        "snapshotId": "76352d66e34dc679c582c36816c231da61c24fee"
       },
       {
         "id": "",
@@ -362,7 +362,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "65dae020c276d688b9e257e5261001380472cd26"
+        "snapshotId": "ffb7ec7d1add65b13b1c1e58409c2e06b67842e9"
       },
       {
         "id": "",
@@ -377,7 +377,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "83c33665a46051154ea85ebdbe21a4c5a01eec25"
+        "snapshotId": "3345cea80bbc355151c221998a9122e4ebb4639b"
       },
       {
         "id": "",
@@ -392,7 +392,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1377f43e706ad6a0ba8238b2a94ca419d68b178f"
+        "snapshotId": "f9116628e5fdb97c8c5a1f6c26a9e570cc7c941b"
       },
       {
         "id": "",
@@ -407,7 +407,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "10a549722613d3f6b2589c48c0646e246fc2b251"
+        "snapshotId": "f8ba72d64f3de7d9dab6be03a41d97e54981de25"
       },
       {
         "id": "",
@@ -422,7 +422,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c28b834048eff3854f4db123c3390ea392f46bfd"
+        "snapshotId": "f0cd533d33f915c48c5b0f52ef825a33e9c8a2f5"
       },
       {
         "id": "en-gb-topic-dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1",
@@ -435,12 +435,12 @@
           ".ocArticleFooterSection"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "673acdd8ec62b549682d26feb285bd2826ceebfa"
+        "mimeType": null,
+        "snapshotId": null
       }
     ],
     "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"#supArticleContent\"]\" has no match in the web page at 'https://support.microsoft.com/en-gb/topic/dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://support.microsoft.com/en-gb/topic/dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1'"
     ]
   }
 }

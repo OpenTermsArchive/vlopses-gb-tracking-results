@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:17:58.919Z",
+    "date": "2026-11-03T01:17:09.844Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           "div[jscontroller=\"FqLSBc\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "9d90d5fd8f39ecd343dc0a2fe4ff0faf5649e6d7"
+        "snapshotId": "e1a9aa54be372818e199f4f57e88b96433121265"
       },
       {
         "id": "help-terms_maps",
@@ -25,7 +25,7 @@
           "img"
         ],
         "mimeType": "text/html",
-        "snapshotId": "f9e99cfe1ae9beddca981d788e3949815bd4d165"
+        "snapshotId": "0a7bcc75327fcfee881f65973d27c25fc63a54dd"
       },
       {
         "id": "business-answer-9292476",
@@ -36,9 +36,12 @@
           "a[href^=\"/business/contact/\"]",
           "h2:contains(\"Related resources\")"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "79cf5268316e84e806b3997c1664aea4fc6cf964"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/business/answer/9292476'"
     ]
   }
 }

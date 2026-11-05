@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-03T01:20:03.908Z",
+    "date": "2026-11-05T01:22:55.972Z",
     "serviceName": "Google Shopping",
     "sourceDocuments": [
       {
@@ -15,8 +15,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "230865e525017b3510dcec89326e3952cbf3b849"
       },
       {
         "id": "merchants-answer-12073010",
@@ -29,8 +29,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "883961ed71c79e5239a6433a5144ffcb7461aba3"
       },
       {
         "id": "merchants-answer-12078092",
@@ -43,8 +43,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "26feeb35178b19a74ea3ddb95e60455546d5d9fa"
       },
       {
         "id": "merchants-answer-12079605",
@@ -57,8 +57,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "dd664f77263e9a2f9cc9fca8c5f4c5762640f3f5"
       },
       {
         "id": "merchants-answer-12076889",
@@ -71,8 +71,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "43e8224b51aad35b692e162cfb47add01e885e20"
       },
       {
         "id": "merchants-answer-12079602",
@@ -85,8 +85,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b5db163c6d5c9bdd58f522322ef2815c2e5b8890"
       },
       {
         "id": "merchants-answer-12077694",
@@ -99,8 +99,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1758cc10d86bbdeea9993a31cec7535c22b874fe"
       },
       {
         "id": "merchants-answer-12076987",
@@ -113,8 +113,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a4106b036eb1c1ec69e03c828d2d3783a5b961d9"
       },
       {
         "id": "merchants-answer-12077185",
@@ -127,8 +127,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "fcd0fbbfb652ec9a65a2d1af21bf5838dfb3c17e"
       },
       {
         "id": "merchants-answer-12079606",
@@ -141,8 +141,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "91c265a205134aebc1204f89e792ee78c54284d0"
       },
       {
         "id": "merchants-answer-12077589",
@@ -155,8 +155,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3839b8180c73a93eb29e3a6b1c40a735ca347b1f"
       },
       {
         "id": "merchants-answer-12078091",
@@ -169,8 +169,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ce5c68b14767b8317204cc9c7cf24c934a47064b"
       },
       {
         "id": "merchants-answer-12078695",
@@ -183,8 +183,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "243b6ca7e2c549c803e053c28120dcfe87517654"
       },
       {
         "id": "merchants-answer-12079603",
@@ -197,8 +197,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "7865acb576e404d6d3f7d8a4ed7c2267c2720a7c"
       },
       {
         "id": "merchants-answer-12079201",
@@ -211,8 +211,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0a20afc7cbfe66482e442357fcfa0c7913d94964"
       },
       {
         "id": "merchants-answer-13389785",
@@ -225,8 +225,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c87e21785728c3e3aeca9cc0aa28a05d3f4712cf"
       },
       {
         "id": "merchants-answer-2877565",
@@ -239,8 +239,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f6feaf80e61ece26422cff8c57ef9356a8fe3c81"
       },
       {
         "id": "merchants-answer-3271956",
@@ -253,8 +253,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5301e3aa9a4f487db63457da051e1ab8bdee84b4"
       },
       {
         "id": "merchants-answer-7125796",
@@ -267,8 +267,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "25c1b4067aca58c61f97929fa1ba87a46af04980"
       },
       {
         "id": "shopping-customerreviews-static-tos-gb-1_01_tos",
@@ -280,7 +280,7 @@
           "script"
         ],
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "b12269e60d92a804463b735d12722b8af9e99c43"
       },
       {
         "id": "merchants-answer-14629803",
@@ -293,8 +293,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "538a8a8713bf31aae2685f507ab1cebf8fe56741"
       },
       {
         "id": "merchants-answer-7126006",
@@ -307,8 +307,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b9039e5ed74d59c800a261f4e28536e4ec2eb291"
       },
       {
         "id": "merchants-answer-7126007",
@@ -321,8 +321,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4e3661a9aa96c4c9e812728138ac173284cfa38c"
       },
       {
         "id": "merchants-answer-7125798",
@@ -335,8 +335,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "686e2043f972d911f6bf5f325e38be463d63376e"
       },
       {
         "id": "merchants-answer-6098512",
@@ -349,8 +349,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "70a78a943a5ac38d1ee763e5829c5c7bda8c5df0"
       },
       {
         "id": "merchants-answer-11544533",
@@ -363,8 +363,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "646c1871d86e5126fc4a3002df0812ef8083a4c6"
       },
       {
         "id": "merchants-answer-13425252",
@@ -377,8 +377,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f05f7bdc0d6e65ff579cf0daba205be988e05aa4"
       },
       {
         "id": "merchants-answer-143465",
@@ -391,8 +391,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a601915e4e9d7d0052bc6ce6de3ac7829ee253d3"
       },
       {
         "id": "adspolicy-answer-7187501",
@@ -405,8 +405,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e995ce81b9464f33ec83be27dd7d9cb1a16a68f9"
       },
       {
         "id": "adspolicy-answer-143465",
@@ -419,8 +419,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "37308a31852f8a5586e815a60f964552f7beee53"
       },
       {
         "id": "adspolicy-answer-9841640",
@@ -433,8 +433,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c7d50b0cfe9002029a3bda0678bba4153072b411"
       },
       {
         "id": "adspolicy-answer-10922738",
@@ -447,8 +447,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a7f57e9fab4090ec7ad0fd444c511d2850ceb3f7"
       },
       {
         "id": "adspolicy-answer-6299717",
@@ -461,8 +461,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bbe2e441b1ee11513993b2e58fcb132265d93465"
       },
       {
         "id": "google-ads-answer-9127662",
@@ -475,8 +475,8 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c5882e0980833ac1e62efee83fd2262572a3ba64"
       },
       {
         "id": "adspolicy-answer-6023676",
@@ -489,45 +489,9 @@
           "img",
           ".ytp-cued-thumbnail-overlay-image"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "7a323482464ab08c03d49872a83b1e228d7e1e3a"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/6149970?hl=en'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12073010?hl=en'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12078092'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12079605'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12076889'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12079602'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12077694'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12076987'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12077185'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12079606'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12077589'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12078091'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12078695'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12079603'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/12079201'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/13389785'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/2877565'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/3271956'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/7125796'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/14629803'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/7126006'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/7126007'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/7125798'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/6098512'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/11544533'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/13425252'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/merchants/answer/143465'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/adspolicy/answer/7187501'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/adspolicy/answer/143465'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/adspolicy/answer/9841640'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/adspolicy/answer/10922738'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/adspolicy/answer/6299717'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/google-ads/answer/9127662'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/adspolicy/answer/6023676'"
     ]
   }
 }

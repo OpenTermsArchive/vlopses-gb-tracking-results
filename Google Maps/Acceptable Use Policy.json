@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-06T01:15:58.679Z",
+    "date": "2026-11-06T13:16:25.115Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
         "remove": [
           "nav"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c9a5fdef20685089f803fcdb0bb86e076b7483fd"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://cloud.google.com/maps-platform/terms/aup'"
     ]
   }
 }

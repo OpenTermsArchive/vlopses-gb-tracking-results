@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:18:28.279Z",
+    "date": "2026-11-06T01:15:56.101Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -11,7 +11,7 @@
           ".main-article"
         ],
         "mimeType": "text/html",
-        "snapshotId": "40d58d759fd9fbe182e2817bee45f857353071f3"
+        "snapshotId": "8f347b6d3e74fe7e1a115b42b0e2cdf1dda19ca6"
       },
       {
         "id": "maps-platform-terms-maps-service-terms",
@@ -23,8 +23,8 @@
         "remove": [
           "nav"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "2e55b4eb079cac8a49dc15dc7266dcb3bb8c5bd9"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "maps-platform-terms-maps-services",
@@ -36,8 +36,8 @@
         "remove": [
           "nav"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "8e41e507134335fe04866b07845195d005164b67"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "maps-documentation-mobility-services-terms",
@@ -54,8 +54,12 @@
           ".devsite-thumbs"
         ],
         "mimeType": "text/html",
-        "snapshotId": "9a1aa44687479a7addf1a9b0ec2bde3fdcc86328"
+        "snapshotId": "4d98a5ebf2494cb3934727b4bd0033af53364f52"
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://cloud.google.com/maps-platform/terms/maps-service-terms'",
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://cloud.google.com/maps-platform/terms/maps-services'"
     ]
   }
 }

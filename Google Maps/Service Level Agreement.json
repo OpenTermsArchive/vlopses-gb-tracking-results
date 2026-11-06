@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-06T01:16:03.252Z",
+    "date": "2026-11-06T13:16:37.326Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           "nav"
         ],
         "mimeType": "text/html",
-        "snapshotId": "6847b1bc7663249ff1d5e3c3a62cf8571df8e989"
+        "snapshotId": "1be364d6fd6fe2e850cdaa6330e230e25e5f841c"
       },
       {
         "id": "maps-platform-terms-tssg",
@@ -27,12 +27,9 @@
         "remove": [
           "nav"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "82855512f9badbc40a30f8496a2d1eedf269204d"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://cloud.google.com/maps-platform/terms/tssg'"
     ]
   }
 }

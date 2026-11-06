@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:19:17.884Z",
+    "date": "2026-11-06T01:16:03.644Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
         "remove": [
           "nav"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "d7b87b9ad5d1828e066e3f3b1ae5dcf22dadb847"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://cloud.google.com/maps-platform/terms/maps-prohibited-territories'"
     ]
   }
 }

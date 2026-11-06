@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-06T01:16:03.994Z",
+    "date": "2026-11-06T13:16:46.049Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -14,12 +14,9 @@
         "remove": [
           "nav"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a949a6868ccdf356f2ed81e0b6da654918773b6b"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://cloud.google.com/terms/maps-platform/eea'"
     ]
   }
 }

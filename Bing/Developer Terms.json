@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-11-05T00:59:46.417Z",
+    "date": "2026-11-07T14:02:59.736Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -15,9 +15,12 @@
           "[aria-label=\"Show additional social media links\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "c79d13e3f708728436a2a651d9239a9728f63167"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en/bing/apis/legal'"
     ]
   }
 }

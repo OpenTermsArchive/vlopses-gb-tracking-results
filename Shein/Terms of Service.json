@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:46:50.042Z",
+    "date": "2026-11-09T13:40:55.402Z",
     "serviceName": "Shein",
     "sourceDocuments": [
       {
@@ -10,7 +10,7 @@
         "select": "#j-new-article-bff",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "791cc5e77a207a9a6d2bf09bc7fb370300b4c9f4"
+        "snapshotId": "da8225f5b2d486bdef4792a2441bef36b25fdefe"
       },
       {
         "id": "shein-saver-terms-and-conditions-a-2019",
@@ -18,7 +18,7 @@
         "select": "#j-new-article-bff",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3d8110d72271df00662e9ec9a9284974ae977d3d"
+        "snapshotId": "dbc916642324288f5114829ed013556ab627b3dd"
       },
       {
         "id": "Terms-and-Conditions-a-399",
@@ -28,7 +28,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a89aedb25e4a0295a0e1953b877383cd991bef1f"
+        "snapshotId": "3a44dac2430f8be7ace0f5bcb8f4b0f43942e59d"
       },
       {
         "id": "terms-conditions",
@@ -40,7 +40,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ca728734944f29024a384bc1d92ae1564b928c73"
+        "snapshotId": "70762d6bffc32fab261eb5fd96b2bd0513fd77a0"
       },
       {
         "id": "SHEIN-CLUB-TERMS-AND-CONDITIONS-a-1544",
@@ -53,8 +53,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c03c2711de41e0b1295c525e9e045094e2edc662"
+        "snapshotId": "2d26bcba300bd777026cb0409e26cd71e15a55ef"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"#in-app\" has no match in the web page at 'https://m.shein.co.uk/SHEIN-CLUB-TERMS-AND-CONDITIONS-a-1544.html'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-09T13:20:08.591Z",
+    "date": "2026-11-10T01:21:57.012Z",
     "serviceName": "Google Play",
     "sourceDocuments": [
       {
@@ -10,8 +10,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c02d7799b17bddd5cc550d3e9c583ce1a78de787"
       },
       {
         "id": "googleplay-android-developer-answer-16324062",
@@ -19,8 +19,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b3db375b6ee3454f95fc38ed81afeec8fdaa7913"
       },
       {
         "id": "googleplay-android-developer-answer-9888077",
@@ -28,14 +28,9 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "77fe2e3dd3bb62064fa67f7158028ede7ef07df3"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/10144311?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/16324062?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9888077?hl=en-IE'"
     ]
   }
 }

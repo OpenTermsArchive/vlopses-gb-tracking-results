@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-09T13:57:41.473Z",
+    "date": "2026-11-10T01:57:50.855Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           ".mobile-only"
         ],
         "mimeType": "text/html",
-        "snapshotId": "b275259713d0b71fd63209a91ec25939a2be960f"
+        "snapshotId": "05cc0fac1a7c69ade9a3f4fb3beba6cbe43c4fe7"
       },
       {
         "id": "youtube-answer-185111",
@@ -27,8 +27,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9a69219815d7358301aed58c8dff5bb9494dc5ae"
       },
       {
         "id": "youtube-answer-9288567",
@@ -40,8 +40,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2c49ed047890bd1cad02bda2d1f6236cda32350b"
       },
       {
         "id": "youtube-answer-2801973",
@@ -53,8 +53,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "aabb1574061a85303405eaa51b85110f8700d679"
       },
       {
         "id": "youtube-answer-2801947",
@@ -66,8 +66,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "235782f9a3bcce6fde1d069a028f9290bad37446"
       },
       {
         "id": "youtube-answer-9054257",
@@ -79,8 +79,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "32a525eb23257849234d2fd9709e71b7c6fbfb8e"
       },
       {
         "id": "youtube-answer-3399767",
@@ -92,8 +92,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5918ce410d36aba3c399a05af0c756b95af7d273"
       },
       {
         "id": "youtube-answer-9713446",
@@ -105,8 +105,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "54ad56683073790e95e6f3c977c2a118bd7fc94f"
       },
       {
         "id": "youtube-answer-2801981",
@@ -118,8 +118,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d9575b14e1039aa264af5fc4781f5c7786b3b704"
       },
       {
         "id": "youtube-answer-2802002",
@@ -131,8 +131,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e75a53f6f9bdc5c248defd49b813a70f265ea33d"
       },
       {
         "id": "youtube-answer-9229980",
@@ -144,8 +144,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9cec046c9b82d6ec16207174b384946805f8e12a"
       },
       {
         "id": "youtube-answer-2801999",
@@ -157,8 +157,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "6a70562e272dc9f1a7b7fe034495f3197adade2c"
       },
       {
         "id": "youtube-answer-2802245",
@@ -170,8 +170,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "15a49e5e297e127bf247509030f906ff97281a40"
       },
       {
         "id": "youtube-answer-10072685",
@@ -183,8 +183,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4d617215d6bd1eea0d81b7712309330482736482"
       },
       {
         "id": "youtube-answer-2801964",
@@ -196,8 +196,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "473291be8186ade4774b08814c18f373ea9410b0"
       },
       {
         "id": "youtube-answer-2802008",
@@ -209,8 +209,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "946c02d4d953dafa6adea2c570c78bfe4b192c8a"
       },
       {
         "id": "youtube-answer-9229472",
@@ -222,8 +222,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "fa1b97a446e2eacf7f1b42c8e7d0bd083ad3555e"
       },
       {
         "id": "youtube-answer-2801939",
@@ -235,8 +235,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "908b9be608078354d57ce7b16be95e90c650544e"
       },
       {
         "id": "youtube-answer-2802268",
@@ -248,8 +248,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "49b6b6ab5d997b5bfba830ffd2c4917d4404f546"
       },
       {
         "id": "youtube-answer-9229611",
@@ -261,8 +261,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ca4a3b3d209c088ddc0e9786b9fe3911ebf3d516"
       },
       {
         "id": "youtube-answer-7667605",
@@ -274,8 +274,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4d431acdc7e90ba3867de4813f35258ed7eeb769"
       },
       {
         "id": "youtube-answer-10834785",
@@ -287,8 +287,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4445d1ce7efc30385eedfe9fc17e28e948645762"
       },
       {
         "id": "youtube-answer-10835034",
@@ -300,8 +300,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4e52713512e045e72694f55052d5d37dda63e69c"
       },
       {
         "id": "youtube-answer-13813322",
@@ -313,8 +313,8 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "380fa79ec02868fe7b0384ad22f64d9a49163aa6"
       },
       {
         "id": "youtube-answer-6345162",
@@ -326,35 +326,9 @@
           ".inline-feedback__trackr",
           "img"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "36438cd7f937b8f2de8757ca3f82a83cc4635bdd"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/185111'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/9288567'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2801973'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2801947'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/9054257'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/3399767'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/9713446'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2801981'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2802002'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/9229980'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2801999'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2802245'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/10072685'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2801964'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2802008'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/9229472'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2801939'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/2802268'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/9229611'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/7667605'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/10834785'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/10835034'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/13813322'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/youtube/answer/6345162'"
     ]
   }
 }

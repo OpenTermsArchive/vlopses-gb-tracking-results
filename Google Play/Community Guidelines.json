@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-09T13:20:01.640Z",
+    "date": "2026-11-10T01:21:42.187Z",
     "serviceName": "Google Play",
     "sourceDocuments": [
       {
@@ -11,7 +11,7 @@
         "remove": ".h-c-header__bar",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "166627c533a3f0ecc1036b1d79f5bce59713cb17"
       },
       {
         "id": "googleplay-android-developer-answer-9878809",
@@ -19,8 +19,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1b6a0357236d4119054f954333aade35588612b9"
       },
       {
         "id": "googleplay-android-developer-answer-9878810",
@@ -28,8 +28,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "19e17a83431a66609ac0f23054f0c72b6dcebd02"
       },
       {
         "id": "googleplay-android-developer-answer-11917020",
@@ -37,8 +37,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "304c2354ec1b6423b799ee0843a52dbf26e4553e"
       },
       {
         "id": "googleplay-android-developer-answer-9876821",
@@ -46,8 +46,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c404b5fe02fe68509a05cb5cead16cc84e44a066"
       },
       {
         "id": "googleplay-android-developer-answer-9877032",
@@ -55,8 +55,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e5dc6f87c1386dafc97fad8c208793af823b4038"
       },
       {
         "id": "googleplay-android-developer-answer-9878877",
@@ -64,8 +64,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b671f7373ab0a0d472ec49fc2e70c2b2cb7382bf"
       },
       {
         "id": "googleplay-android-developer-answer-9876937",
@@ -73,8 +73,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1ad7f60a40a16060d118bdde7e65a966a9283821"
       },
       {
         "id": "googleplay-android-developer-answer-13607354",
@@ -82,8 +82,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0d7880be303bee673d2bedebbfdf96fc36d1c283"
       },
       {
         "id": "googleplay-android-developer-answer-13985936",
@@ -91,8 +91,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5c3ee7157e71e38454c183015e60c606af02fb4f"
       },
       {
         "id": "googleplay-android-developer-answer-16302285",
@@ -100,8 +100,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "da57bb9cca4db7957b2c5cd98ae74ec339217564"
       },
       {
         "id": "googleplay-android-developer-answer-16273414",
@@ -109,8 +109,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "54362b47d74258e82f9d596d3772ff93e29865b3"
       },
       {
         "id": "googleplay-android-developer-answer-9888689",
@@ -118,8 +118,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "970228a6eaae320276a1f37a68c932b220ddd94d"
       },
       {
         "id": "googleplay-android-developer-answer-9888380",
@@ -127,8 +127,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "801f0a2786fa41c078df4d5d485a0cb7ddd8e6c8"
       },
       {
         "id": "googleplay-android-developer-answer-9888374",
@@ -136,8 +136,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "fa4f3ed2bf9dc5194051d5e64004ed083748f7a3"
       },
       {
         "id": "googleplay-android-developer-answer-9970222",
@@ -145,8 +145,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "7b1309000c95a98457f70cebae3ffa67ed78f9b6"
       },
       {
         "id": "googleplay-android-developer-answer-11189134",
@@ -154,8 +154,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "72181cfd160655d204d10c9d5c0b08a9eeb01a60"
       },
       {
         "id": "googleplay-android-developer-answer-9969955",
@@ -163,8 +163,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1fffce53bed411cc85fdc7acd1c46e67e424bd04"
       },
       {
         "id": "googleplay-android-developer-answer-9969861",
@@ -172,8 +172,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ad73bd217b88d86570c88730b5d6b028a89f2a71"
       },
       {
         "id": "googleplay-android-developer-answer-10148323",
@@ -181,8 +181,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "23675dbbe4e3f492361b0093f2c6c1fdd89ba850"
       },
       {
         "id": "googleplay-android-developer-answer-9857753",
@@ -190,8 +190,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "26e4f9ba90472b00227557cdbb8a158a3b443a70"
       },
       {
         "id": "googleplay-android-developer-answer-9899004",
@@ -199,8 +199,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e3323b823b6c323e7ab3775f797d6df2fbc3ebcc"
       },
       {
         "id": "googleplay-android-developer-answer-9898842",
@@ -208,8 +208,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "42863ec35f1837366bc5095851585ec9a23656e0"
       },
       {
         "id": "googleplay-android-developer-answer-9898684",
@@ -217,8 +217,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "6dd002d912a8bfe5d7aa7dfe9f5e5742faaaa7bf"
       },
       {
         "id": "googleplay-android-developer-answer-9935326",
@@ -226,8 +226,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "68c08b7a3bb7f87276a6f4f9bb25171db2822a2d"
       },
       {
         "id": "googleplay-android-developer-answer-9899034",
@@ -235,8 +235,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4e87032a39331013dc08309e8ff99d74478a02c3"
       },
       {
         "id": "googleplay-android-developer-answer-9898783",
@@ -244,8 +244,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c13c65c79cd4c7c62adee41bd59dcd13bab15e03"
       },
       {
         "id": "googleplay-android-developer-answer-9893335",
@@ -253,8 +253,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "00965fcb06d27b193758dd03c609cefbaa5f0a46"
       },
       {
         "id": "googleplay-android-developer-answer-10146128",
@@ -262,8 +262,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e58d7993a4cdfcc7156d5bbee2e3cf12443b5033"
       },
       {
         "id": "googleplay-android-developer-answer-9899234",
@@ -271,8 +271,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5915dd7e827e81e1ffd14e4c3137adc91e6e5e2a"
       },
       {
         "id": "googleplay-android-developer-answer-9899142",
@@ -280,8 +280,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e96f6fdae9a0beae5fec91c15eabe1c15c2b8dc0"
       },
       {
         "id": "googleplay-android-developer-answer-9958766",
@@ -289,8 +289,8 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "641ccdda156d03fb1d95932a9b919894f52a5d3c"
       },
       {
         "id": "googleplay-android-developer-answer-9959788",
@@ -298,43 +298,9 @@
         "select": ".article-container",
         "remove": ".example,.scClientFeedbackInlineFeedbacklinkroot",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f1b93631872fd1fc83315520c6f979aeb6b7b182"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9878809?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9878810?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/11917020?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9876821?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9877032?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9878877?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9876937?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/13607354?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/13985936?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/16302285?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/16273414?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9888689?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9888380?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9888374?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9970222?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/11189134?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9969955?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9969861?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/10148323?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9857753?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9899004?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9898842?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9898684?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9935326?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9899034?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9898783?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9893335?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/10146128?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9899234?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9899142?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9958766?hl=en-IE'",
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/googleplay/android-developer/answer/9959788?hl=en-IE'"
     ]
   }
 }

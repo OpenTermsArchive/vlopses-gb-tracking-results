@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-09T13:17:29.807Z",
+    "date": "2026-11-10T01:17:36.205Z",
     "serviceName": "Google Maps",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a5ff9019d362f44bf211c1c9b1054805eff9c6b8"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 429 when trying to fetch 'https://support.google.com/legal/answer/1120734'"
     ]
   }
 }

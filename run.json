@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-10T00:30:09.887Z",
-    "endDate": null,
+    "endDate": "2026-11-10T02:02:34.142Z",
     "engineVersion": "17.0.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "27e9eacd278796ae3420fb72692ac0c7b99797a6",
@@ -14,17 +14,87 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 177,
+    "failed": 28
   },
   "coverage": {
-    "processed": 0,
+    "processed": 205,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "recoveries": [
+      {
+        "serviceId": "Google Maps",
+        "termsType": "Terms of Service"
+      },
+      {
+        "serviceId": "Google Maps",
+        "termsType": "Complaints Policy"
+      },
+      {
+        "serviceId": "Google Play",
+        "termsType": "Terms of Service"
+      },
+      {
+        "serviceId": "Google Play",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Google Play",
+        "termsType": "Community Guidelines"
+      },
+      {
+        "serviceId": "Google Play",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "Google Play",
+        "termsType": "Quality Guidelines"
+      },
+      {
+        "serviceId": "Google Shopping",
+        "termsType": "Marketplace Sellers Conditions"
+      },
+      {
+        "serviceId": "Google Shopping",
+        "termsType": "Privacy Policy"
+      },
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Commercial Terms"
+      },
+      {
+        "serviceId": "YouTube",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "YouTube",
+        "termsType": "Community Guidelines"
+      },
+      {
+        "serviceId": "YouTube",
+        "termsType": "Content Monetisation Policy"
+      },
+      {
+        "serviceId": "YouTube",
+        "termsType": "Complaints Policy"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Google Play",
+        "termsType": "Developer Terms"
+      },
+      {
+        "serviceId": "Bing",
+        "termsType": "Terms of Service"
+      }
+    ]
   },
   "transientErrors": 0
 }

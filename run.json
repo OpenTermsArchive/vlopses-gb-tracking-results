@@ -1,44 +1,30 @@
 {
-  "runId": "ota-run-9e6f4edc-2a2f-475c-aec5-711d9de9d29e",
+  "runId": "ota-run-d8cced66-0a34-414f-9978-e2cb96700fab",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-10T12:30:09.123Z",
-    "endDate": "2026-11-10T14:04:08.083Z",
-    "engineVersion": "17.0.0",
-    "status": "completed"
+    "startDate": "2026-11-11T00:30:09.131Z",
+    "endDate": null,
+    "engineVersion": "17.0.1",
+    "status": "in_progress"
   },
   "declarations": {
-    "commit": "27e9eacd278796ae3420fb72692ac0c7b99797a6",
+    "commit": "c8d01b6906c1d815ef2009542f85e484014551db",
     "services": 24,
     "terms": 210
   },
   "tracked": {
-    "ok": 175,
-    "failed": 30
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 205,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Data Processor Agreement"
-      },
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Commercial Terms"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Copyright Claims Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }

@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-09T13:43:17.428Z",
+    "date": "2026-11-11T01:45:16.224Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           "img"
         ],
         "mimeType": "text/html",
-        "snapshotId": "97e43c1ed0d62f39c0dd42c9b663a448d1d0fd8b"
+        "snapshotId": "43eb17cb03bd747c5d9f6c67516c6b5e38909065"
       },
       {
         "id": "dwtpq5hdcqjg-4jI8Swj0BHjUD0VzbCcxkk-75d69c0de7ce747cac82bfe39378106c-Snapchat_Law_Enforcement_Guide",
@@ -23,9 +23,6 @@
         "mimeType": "application/pdf",
         "snapshotId": "763277cd3e9c3b6dff837806f75f6e449b4b9d36"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"main\" matches an empty content in the web page at 'https://values.snap.com/safety/safety-enforcement'"
     ]
   }
 }

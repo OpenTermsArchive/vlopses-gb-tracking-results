@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-11T13:58:14.636Z",
+    "date": "2026-11-12T02:02:09.249Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,8 +17,8 @@
           "span"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e739730b44ea6c856186f40295e13b573f9b98ef"
       },
       {
         "id": "en-gb-microsoft-copilot-for-individuals-termsofuse",
@@ -31,7 +31,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "af940effe7c1813ec998877c33b21e91378c8326"
+        "snapshotId": "7338fb9acde8cfd014bca4bd6bc484a72135b011"
       },
       {
         "id": "",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9fbcef3fb59e912211742ed1a8b84fb2b15ede10"
+        "snapshotId": "dc919cf1612f360cc91ced516bf3d4c85b11fed2"
       },
       {
         "id": "en-gb-legal-terms-of-use",
@@ -80,7 +80,6 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-gb/servicesagreement'",
       "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-gb/legal/terms-of-use'"
     ]
   }

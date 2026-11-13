@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-12T13:58:41.235Z",
+    "date": "2026-11-13T13:58:07.781Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -18,7 +18,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b8e19ddb83122d5284e8c5811ffd70014b9f4354"
+        "snapshotId": "13a5aeeb6b6b94f7bb3acda70d515958d586e2cc"
       },
       {
         "id": "en-gb-microsoft-copilot-for-individuals-termsofuse",
@@ -30,8 +30,8 @@
           "a.copilot_brand"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "197179a097ff9c77ed1803a6e4cc9248eabe0e15"
       },
       {
         "id": "",
@@ -44,7 +44,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e9796623bc8c08fd0f44e6233167e6784f3ec5ce"
+        "snapshotId": "328637844d099529fd350b9fb52587a787630fb2"
       },
       {
         "id": "en-gb-legal-terms-of-use",
@@ -80,7 +80,6 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-gb/microsoft-copilot/for-individuals/termsofuse'",
       "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-gb/legal/terms-of-use'"
     ]
   }

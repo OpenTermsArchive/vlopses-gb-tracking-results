@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-10T01:22:57.699Z",
+    "date": "2026-11-14T14:01:24.192Z",
     "serviceName": "Google Shopping",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "7d3dd3f9a059eae1131ae492579ed55ac4d34bac"
+        "snapshotId": "888bc4968af08f50fb88aa984b112bcc9287f4e2"
       },
       {
         "id": "merchants-answer-12073010",
@@ -30,7 +30,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "c1dd91abd8bcf56eeaa347fecd0dcc6dbdb446ca"
+        "snapshotId": "72a8bdf5878715493f83b7cf7426adf313328b19"
       },
       {
         "id": "merchants-answer-12078092",
@@ -44,7 +44,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "8ca01e1f4533036a0ee882d73d61dce0ad125ff6"
+        "snapshotId": "8a4f61112663b8e4dc4201da716935221b37cf62"
       },
       {
         "id": "merchants-answer-12079605",
@@ -58,7 +58,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "e95625878cbfd7b601e146374b0f9533e335cce7"
+        "snapshotId": "8933d6f52bfcd20fb95b61f340f5f9c573a2abca"
       },
       {
         "id": "merchants-answer-12076889",
@@ -72,7 +72,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "e03b1eea035ea67a19751f8a5355ea09cf422504"
+        "snapshotId": "219fdcf9c34b656d5595048153abc787fc896f55"
       },
       {
         "id": "merchants-answer-12079602",
@@ -86,7 +86,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "cb563aa7c320edc0d99dbdf4d85fa91612c51d3d"
+        "snapshotId": "188d4983283876abd31d5713096a7b30a0fd0e09"
       },
       {
         "id": "merchants-answer-12077694",
@@ -100,7 +100,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "7d24b412a499d072d3d0f28228899eeed9dcc503"
+        "snapshotId": "2dc1fe9df7d186ee4ee46a94e114cc41410a5e51"
       },
       {
         "id": "merchants-answer-12076987",
@@ -114,7 +114,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "cead17de1548fa1ce258f8554bfc0e843b221f42"
+        "snapshotId": "36f912e61867b10a7895f2874f217a03e98e7dc0"
       },
       {
         "id": "merchants-answer-12077185",
@@ -128,7 +128,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "3c6ca21de6b738bd4069e8b188bfd15e8602e797"
+        "snapshotId": "694df18e77de6cbbe4a4be5b48d7cff2ed633692"
       },
       {
         "id": "merchants-answer-12079606",
@@ -142,7 +142,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "151e806ec9999437ceaa8e4994542c6c5ed420e6"
+        "snapshotId": "e6975f90a1932e3964daa14f9dccff47acd1e83f"
       },
       {
         "id": "merchants-answer-12077589",
@@ -156,7 +156,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "ddb9404cccebceca9fd35cff47e021601bd9da2f"
+        "snapshotId": "d36001a445eaafd61acdaa014dd660d103ad0147"
       },
       {
         "id": "merchants-answer-12078091",
@@ -170,7 +170,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "fc17589aa3e63c75fea3221566d8f21e4cba5ca7"
+        "snapshotId": "dc752248f75bbf80a61c2aaca0337018865cfd0d"
       },
       {
         "id": "merchants-answer-12078695",
@@ -184,7 +184,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "12cb3428ef007b65601df6cc1c77e0d06b44e504"
+        "snapshotId": "7225d1398ba592476934a44fafeae7db23db2b46"
       },
       {
         "id": "merchants-answer-12079603",
@@ -198,7 +198,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "be921a4dc2b6a5940c97500c6b135ea340dc8a8e"
+        "snapshotId": "1683a40bef599150dd51b7a6e26c1348e6e77aab"
       },
       {
         "id": "merchants-answer-12079201",
@@ -212,7 +212,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "cedc0fcca61639d191491b16f8b4c119e5f685ea"
+        "snapshotId": "9060bbe5650ee74f18bd16fcef28e363f5736177"
       },
       {
         "id": "merchants-answer-13389785",
@@ -226,7 +226,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "236234f53358089c87f68e5768bd7f7968bdc6c8"
+        "snapshotId": "7180ee7b6e4be082d7071341d989438c710bae57"
       },
       {
         "id": "merchants-answer-2877565",
@@ -240,7 +240,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "9cf84d1b5bd6c49c73a6ad8f021b5d45107da6f1"
+        "snapshotId": "bd9697e8ebfd260555763a5890426ff5000cc823"
       },
       {
         "id": "merchants-answer-3271956",
@@ -254,7 +254,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "d55830e4d0cc6366d03caf15565736c9b8df746e"
+        "snapshotId": "6af2125e3d72c00584c08783e2ba20129a16d73d"
       },
       {
         "id": "merchants-answer-7125796",
@@ -268,7 +268,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "1a5be9e1d14de3ccea6124c4819a5f9a66a09d19"
+        "snapshotId": "2b4b6fd464e35536c55665e5e98c8dc4b663454f"
       },
       {
         "id": "shopping-customerreviews-static-tos-gb-1_01_tos",
@@ -294,7 +294,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "ed05b52c79f16ae8b456c11b8364e931a48d88aa"
+        "snapshotId": "a0649e626ff6740610b44a087ea309ca51e81d36"
       },
       {
         "id": "merchants-answer-7126006",
@@ -308,7 +308,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "569edbb09536d653419f00fc2b280b5b8dd1b83f"
+        "snapshotId": "9152a8ff29613e31b590cad6d9838fcc2eafde69"
       },
       {
         "id": "merchants-answer-7126007",
@@ -322,7 +322,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "0e370d8ea407bc6e914d058e9f00dcb39f621c45"
+        "snapshotId": "1025f7b0297e86c68fea02c3cc8b0ac061996d4d"
       },
       {
         "id": "merchants-answer-7125798",
@@ -336,7 +336,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "fb050558caf79f3cbb0bf63d299810997363ab92"
+        "snapshotId": "785f5fb2e549afb3649e85a153bad511b83501a6"
       },
       {
         "id": "merchants-answer-6098512",
@@ -350,7 +350,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "286b8e25b8ce99111de626a426ee5ef2b2bc5bcd"
+        "snapshotId": "d1cffbfc60bafe6faa2c7af9f4eca448a1df7738"
       },
       {
         "id": "merchants-answer-11544533",
@@ -364,7 +364,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "63a8c04c96b0da398092fccd47e3dbe936ab8eae"
+        "snapshotId": "436dfe0d16b9805f7187656c46e79ff6f45e74f1"
       },
       {
         "id": "merchants-answer-13425252",
@@ -378,7 +378,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "9cc1c7392b231fd95aa1065da86e77b782f49d9d"
+        "snapshotId": "575e018da43515b2a3536c639adaf7eba8a5849d"
       },
       {
         "id": "merchants-answer-143465",
@@ -392,7 +392,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "08fba1ba97f55b0155d825d09c0f8c64cf29f96f"
+        "snapshotId": "4af3579eae898b173c04940e1b3f19ea64c5d865"
       },
       {
         "id": "adspolicy-answer-7187501",
@@ -406,7 +406,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "2be49da982d47be7f4a87dcd7db61504c79d9a7a"
+        "snapshotId": "7fa33cdf56fbc98e17f45e75dcb0b1d44fa9be63"
       },
       {
         "id": "adspolicy-answer-143465",
@@ -420,7 +420,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "5a82725f477777dfe472150d9e20a721c966fde5"
+        "snapshotId": "c14d0a0ee3029f739927e3c1d848aa1042a09b93"
       },
       {
         "id": "adspolicy-answer-9841640",
@@ -434,7 +434,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "efb4bbcf30b380bbeada90fd8a2f773e2285d0bf"
+        "snapshotId": "f0b1c8740c769d32a70b0ab9bafd54dc3347b276"
       },
       {
         "id": "adspolicy-answer-10922738",
@@ -448,7 +448,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "2caded1ca7e9b3e2183d03180f35d648059813de"
+        "snapshotId": "6ee666462f063ba2742d0adc7812202b96b164c9"
       },
       {
         "id": "adspolicy-answer-6299717",
@@ -462,7 +462,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "a39de2fd2505907fab3ed62b1ab5f3d3b68bf83e"
+        "snapshotId": "92634644e71416167a03e463f3264db5e7b4fdf0"
       },
       {
         "id": "google-ads-answer-9127662",
@@ -476,7 +476,7 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "7f0ab3b958039b8dfa48ba1bf70c4b4278d3582c"
+        "snapshotId": "aea383a5ae8c47b778238a05dddedd529c403d7d"
       },
       {
         "id": "adspolicy-answer-6023676",
@@ -490,8 +490,13 @@
           ".ytp-cued-thumbnail-overlay-image"
         ],
         "mimeType": "text/html",
-        "snapshotId": "e7a37b6770dd37ae06ecd715216e49035a977904"
+        "snapshotId": "6e967fb22dcd87f8cc0248455798677ed2b8153e"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://support.google.com/adspolicy/answer/143465'"
+      ]
+    }
   }
 }

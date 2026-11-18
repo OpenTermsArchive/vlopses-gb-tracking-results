@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-18T00:58:18.817Z",
+    "date": "2026-11-18T12:58:07.736Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6e14b239a79de7c660711b9b7696c6af41a4a481"
+        "snapshotId": "2a16c2b5902ffb692051d9305fb62bb21e87d3f9"
       },
       {
         "id": "",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f649e04238089cbb1cb44f7a13dab15c889836dc"
+        "snapshotId": "5898051ba9a06e1bcf9b81077562e4a096207dfa"
       },
       {
         "id": "",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7de80cecbce5423b93e46ea2f3365b408782a71d"
+        "snapshotId": "bc21f35ee414b94cf3984cc7242166431f92ffc1"
       },
       {
         "id": "",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6e146d60681ab24d7979b956d6ea08e3f696db97"
+        "snapshotId": "99bac390bd2dcf61167279af3037fbe24c6a6452"
       },
       {
         "id": "",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5677d6c94a3fd061fbc4d34f149c0e0383c385fa"
+        "snapshotId": "ffb5813c21b2165f3d2df68ccb9bebc85c1046b6"
       },
       {
         "id": "",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "54ead1173d0f8acb02282d78b333614664e1874e"
+        "snapshotId": "dc355a5ce506010efbb68a0c3a63eb5abc82225d"
       },
       {
         "id": "",
@@ -107,7 +107,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bededb34a9e27962b7de1c1c32c14a6f5e831400"
+        "snapshotId": "cb0013a2f2ac7852b28fb209aec633b71935cbdb"
       },
       {
         "id": "",
@@ -122,7 +122,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f9e277dd762497c12f5776fd20bddfeac59535a6"
+        "snapshotId": "889f4110792a35c0671e2e461bb79ce867476e19"
       },
       {
         "id": "",
@@ -137,7 +137,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2089e5226f020b1236e1a869666393ea511b17e3"
+        "snapshotId": "db52801cc5eb75e1e2395ac082390d914c2d84e4"
       },
       {
         "id": "",
@@ -152,7 +152,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a4762d14706e498be77076249111f682122556f5"
+        "snapshotId": "765d47e3c278db59015e638af8e764e8b9790f31"
       },
       {
         "id": "",
@@ -167,7 +167,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7eceac82d36aa5c1668f874e41c77a9189deb843"
+        "snapshotId": "7e0d11a1adc207da79656001c227bbe11dc1f13f"
       },
       {
         "id": "",
@@ -182,7 +182,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f4bd056d2f5d454f16c7d5cc5c401ca81e1a888b"
+        "snapshotId": "3b01f2a318249399dde569b04602fb00879f0415"
       },
       {
         "id": "",
@@ -197,7 +197,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "023490beca4f7fb3f09045980e574ba0f3c4b8a5"
+        "snapshotId": "553b31b446247e833402a157e583d5b635b320e3"
       },
       {
         "id": "",
@@ -212,7 +212,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2ab27925f9b32115a8bae81079dc6ed9a5ddc43f"
+        "snapshotId": "ef73de560b225ba6076627a071ba704522dbc71d"
       },
       {
         "id": "",
@@ -227,7 +227,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fd79abafaee902773b02e04daab0183ac9e69305"
+        "snapshotId": "662d8b220ee593c3d6ad5ee537a44232353fdff1"
       },
       {
         "id": "",
@@ -242,7 +242,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d25ad09888d22c7ee41fccdc48058ec608c1360e"
+        "snapshotId": "451990c1fa3d253b3e4eaf6f0fcf16b6f7c021c3"
       },
       {
         "id": "",
@@ -257,7 +257,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8b13e86ac5292c90db88bf1751e7665ee49867ca"
+        "snapshotId": "2f2e638b3e463632b3ec700310e160c973f5c609"
       },
       {
         "id": "",
@@ -272,7 +272,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f22522c78c8b20934cce6d4d3bf4b16eebe341ff"
+        "snapshotId": "f17149a785862e89075fcbda0006aca4a2e82c3e"
       },
       {
         "id": "",
@@ -286,8 +286,8 @@
           ".HelpTopic"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ec92947962c10e03bb4e220f79923aa5887ed279"
       },
       {
         "id": "",
@@ -302,7 +302,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c906b367d7e6acacc580b01afdf7430270266147"
+        "snapshotId": "2878eae178a075324fbf757768df4cc39b05ec83"
       },
       {
         "id": "",
@@ -317,7 +317,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b2634e302633117a5228c5bdea10529e8a39de4c"
+        "snapshotId": "bc35d85b5015dcb3eaa21369a7427ab6425ea480"
       },
       {
         "id": "",
@@ -332,7 +332,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7e220e24c88576431f04bba0a7cbd45e73c16926"
+        "snapshotId": "320627bbf80df32a26dc9eeaf271028ba2873605"
       },
       {
         "id": "",
@@ -347,7 +347,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "efdd9b9fa84cf2dc988d9fcf48e114e20b2fb21e"
+        "snapshotId": "9edc686f88f3a41275ef49772f07d0a252babe72"
       },
       {
         "id": "",
@@ -362,7 +362,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d1b105f1dc5e65bbc8419be0411045bd74aae23b"
+        "snapshotId": "3f811262dfeab2860daafe5bc1997183a9acc285"
       },
       {
         "id": "",
@@ -377,7 +377,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "20c752a223d82635da888c9899c0b060919ad1f5"
+        "snapshotId": "bff24f9d5a9f284c1e0e9fdf6c9e94fb35ef887d"
       },
       {
         "id": "",
@@ -392,7 +392,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2ef1ce0a0a9b73a4aa00f761e519f7a01c3f0643"
+        "snapshotId": "0bc8a6900cb30df035b0c51c1fa5e3aa80b30afd"
       },
       {
         "id": "",
@@ -407,7 +407,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8d1e114f9cea7f2286c3f9be095511b47712f9c2"
+        "snapshotId": "93b2cec58f49e1697b43bf97c4ebab568a2a7892"
       },
       {
         "id": "",
@@ -421,8 +421,8 @@
           ".HelpTopic"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "17239b9e7536584c0beb97e474fc065627b7a7a5"
       },
       {
         "id": "en-gb-topic-dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1",
@@ -436,12 +436,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "83417fccd9c4e41ca8b9f17a517455ee81806884"
+        "snapshotId": "fff7e5a771aa2c27b544ae1896a46b86d4c5adeb"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: net::ERR_CERT_COMMON_NAME_INVALID at https://help.ads.microsoft.com/#apex/ads/en/60385/-1",
-      "[fetch] Fetch failed: net::ERR_CERT_COMMON_NAME_INVALID at https://help.ads.microsoft.com/#apex/ads/en/60237/-1"
+      "[extraction] Extract failed: The provided selector \"[\"#supArticleContent\"]\" has no match in the web page at 'https://support.microsoft.com/en-gb/topic/dsa-qualified-researcher-program-25767209-47af-46fd-b248-b590fb3bc7f1'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }

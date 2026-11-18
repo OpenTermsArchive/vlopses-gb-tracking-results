@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-17T14:04:51.774Z",
+    "date": "2026-11-18T02:00:11.995Z",
     "serviceName": "Bing",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "be9df0b3ef9cee9c3e8ee4b97f05613832d1cb06"
+        "snapshotId": "cc01c85bc5900749c114c0a6558e3dab86f9d6ff"
       },
       {
         "id": "",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "db3e685be511d66774ee6b2f6506c5aa9729336f"
+        "snapshotId": "97616c063a3f5e25c95af553a6358d06625e0640"
       },
       {
         "id": "en-gb-legal-intellectualproperty-trademarks",
@@ -52,7 +52,7 @@
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks'"
+      "[fetch] Fetch failed: Received HTTP code 403 when trying to fetch 'https://www.microsoft.com/en-gb/legal/intellectualproperty/trademarks'"
     ]
   }
 }

@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-18T00:30:09.722Z",
-    "endDate": null,
+    "endDate": "2026-11-18T02:02:21.853Z",
     "engineVersion": "17.0.1",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "c8d01b6906c1d815ef2009542f85e484014551db",
@@ -14,17 +14,44 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 178,
+    "failed": 27
   },
   "coverage": {
-    "processed": 0,
+    "processed": 205,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
-    "recoveries": [],
-    "reasonChanges": []
+    "newFailures": [
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Commercial Terms"
+      }
+    ],
+    "recoveries": [
+      {
+        "serviceId": "Instagram",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Law Enforcement Guidelines"
+      },
+      {
+        "serviceId": "TikTok",
+        "termsType": "Terms of Service"
+      }
+    ],
+    "reasonChanges": [
+      {
+        "serviceId": "Bing",
+        "termsType": "Restricted Use Policy"
+      },
+      {
+        "serviceId": "Bing",
+        "termsType": "Copyright Claims Policy"
+      }
+    ]
   },
   "transientErrors": 0
 }

@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-19T13:42:22.253Z",
+    "date": "2026-11-20T13:43:29.650Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -9,60 +9,61 @@
         "fetch": "https://www.snap.com/terms/snap-conversion",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "413118bac995dbe1ab41f17a8d60d40f668d9b64"
+        "snapshotId": "7989614b3633a154505aee5382644c9ee78bbf36"
       },
       {
         "id": "terms-snap-audience-match",
         "fetch": "https://www.snap.com/terms/snap-audience-match",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "ff20d1cd6073933ecdd7b9a33ca8e24b72c61dc0"
+        "snapshotId": "19f533456c405ebf6a9a67d97f11b5a4c73dd66f"
       },
       {
         "id": "terms-cst",
         "fetch": "https://www.snap.com/terms/cst",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "0fe8fd7ba5695ca8aa7ccc0eef8e2a533f1d7bfc"
+        "snapshotId": "922b355b8d168313191988880791492f5689422e"
       },
       {
         "id": "terms-catalog",
         "fetch": "https://www.snap.com/terms/catalog",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "e6f85c2ee1feef7b0e01853b5df98bf47196ec16"
+        "snapshotId": "8848edce7e39150855d6c8444ab79c42e39c4ea7"
       },
       {
         "id": "terms-self-serve-advertising",
         "fetch": "https://www.snap.com/terms/self-serve-advertising",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "b97f9c46ef5765d658ff431537af2b2404ba0ca6"
+        "snapshotId": "d46981498c643f17a4de41f29d91af885b541c2a"
       },
       {
         "id": "terms-local",
         "fetch": "https://www.snap.com/terms/local",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "8796d1b6d0974b1dc04cf92bb70dfc358043ea37"
+        "snapshotId": "fece17c85147744b7ebe32633bfbfb1cd06eb12d"
       },
       {
         "id": "terms-business-services",
         "fetch": "https://www.snap.com/terms/business-services",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "bed8985b021856beb36d7c91e2f0e8fb7f436d32"
+        "snapshotId": "37b7bc11238ccdc10fd7da2b135051a094713c7f"
       },
       {
         "id": "terms-payment",
         "fetch": "https://www.snap.com/terms/payment",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "4e652845e42f5fa63c3e4d79a1e60eedf50a4ae2"
+        "snapshotId": "52e2cf94a090b844f41582e0c555d18370f328e0"
       }
     ],
     "reasons": [
-      "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/catalog'",
+      "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/self-serve-advertising'",
+      "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/local'",
       "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/payment'"
     ]
   }

@@ -1,19 +1,16 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-21T01:42:24.917Z",
+    "date": "2026-11-21T13:38:31.775Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
         "id": "",
         "fetch": "https://brand.linkedin.com/",
         "select": "section#main",
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "61765f7b649d4fcf539e56d393d8fe6aca6a7a87"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://brand.linkedin.com/'"
     ]
   }
 }

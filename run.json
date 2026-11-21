@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-21T12:30:10.662Z",
-    "endDate": null,
+    "endDate": "2026-11-21T14:02:52.197Z",
     "engineVersion": "17.0.2",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "76314255bdf22752d72a9e0a2a7e2f10ad5847a2",
@@ -14,16 +14,25 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 177,
+    "failed": 27
   },
   "coverage": {
-    "processed": 0,
+    "processed": 204,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [],
+    "recoveries": [
+      {
+        "serviceId": "LinkedIn",
+        "termsType": "Brand Guidelines"
+      },
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Commercial Terms"
+      }
+    ],
     "reasonChanges": []
   },
   "transientErrors": 0

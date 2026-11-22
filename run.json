@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-11-22T00:30:09.575Z",
-    "endDate": null,
+    "endDate": "2026-11-22T01:59:46.949Z",
     "engineVersion": "17.0.2",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "76314255bdf22752d72a9e0a2a7e2f10ad5847a2",
@@ -14,15 +14,20 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 176,
+    "failed": 29
   },
   "coverage": {
-    "processed": 0,
+    "processed": 205,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
+    "newFailures": [
+      {
+        "serviceId": "Snapchat",
+        "termsType": "Law Enforcement Guidelines"
+      }
+    ],
     "recoveries": [],
     "reasonChanges": []
   },

@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-017cdf0c-84ba-4feb-aa0f-5ed5664a8279",
+  "runId": "ota-run-28c9f43f-50f4-482f-9474-f57e38cb6962",
   "collectionId": "vlopses-gb",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-26T00:30:09.404Z",
-    "endDate": "2026-11-26T02:01:11.820Z",
+    "startDate": "2026-11-26T12:30:09.458Z",
+    "endDate": null,
     "engineVersion": "17.0.2",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "76314255bdf22752d72a9e0a2a7e2f10ad5847a2",
@@ -14,22 +14,17 @@
     "terms": 210
   },
   "tracked": {
-    "ok": 179,
-    "failed": 26
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 205,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
     "recoveries": [],
-    "reasonChanges": [
-      {
-        "serviceId": "Bing",
-        "termsType": "Privacy Policy"
-      }
-    ]
+    "reasonChanges": []
   },
   "transientErrors": 0
 }

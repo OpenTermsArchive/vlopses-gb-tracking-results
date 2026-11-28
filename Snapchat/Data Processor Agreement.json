@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-11-24T13:46:07.302Z",
+    "date": "2026-11-28T01:43:21.004Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -9,14 +9,14 @@
         "fetch": "https://www.snap.com/terms/data-sharing-agreement",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "42b4528bdcb4620baa5a0dfdb4d5c848270de844"
+        "snapshotId": "d9ac4736fa55d73db4097c6a2ff18ad43594c16b"
       },
       {
         "id": "terms-data-transfer-agreement",
         "fetch": "https://www.snap.com/terms/data-transfer-agreement",
         "select": ".sdsm-page",
         "mimeType": "text/html",
-        "snapshotId": "547a8691ff89b96d5b451e4d42a4abf49e7e4072"
+        "snapshotId": "da6e9ea34cea929597f1b10b0e30edab6a1c30e1"
       },
       {
         "id": "terms-data-processing-agreement",
@@ -27,8 +27,12 @@
           "footer"
         ],
         "mimeType": "text/html",
-        "snapshotId": "2cea241d72801b669d45c9c411940b13615ac5eb"
+        "snapshotId": "b75e2c78574e1d7ec8133103826a4984ffa89d35"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \".sdsm-page\" matches an empty content in the web page at 'https://www.snap.com/terms/data-transfer-agreement'",
+      "[extraction] Extract failed: The provided selector \"main\" matches an empty content in the web page at 'https://www.snap.com/terms/data-processing-agreement'"
     ]
   }
 }
